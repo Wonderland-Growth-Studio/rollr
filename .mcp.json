@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "shopify": {
+    "shopify-rollr": {
       "type": "http",
       "url": "https://setup.shopify.com/mcp"
     }
