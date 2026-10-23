@@ -11,3 +11,9 @@ connected to a different store.
 
 The server picks the store from whoever signs in. To connect it, run `/mcp`, choose
 `shopify-rollr`, and sign in with the Rollr store.
+
+## Customer research
+
+`transcripts.md` holds the full customer interview transcripts (Oct 2025 to Jun 2026) with a
+themes index at the top. Read it for customer language, objections and product feedback before
+writing copy, briefs or product recommendations.
