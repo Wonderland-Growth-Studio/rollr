@@ -8,6 +8,18 @@ This is Concept A (`A-buy-well-buy-once.md`) rebuilt from footage Rollr already 
 argument can run **now** rather than after a creator shoot. The three creator briefs stand
 unchanged — this is the fourth deliverable, not a replacement for them.
 
+> **What this document is.** A record of one ad, made in one session, by improvising against
+> whatever the library turned out to contain. It was prompted into existence; there was no process
+> behind it and none should be read out of it.
+>
+> **Durable here:** the EDL (which clips, which timecodes, which Drive ids), the claims that were
+> cut and why, and the rights position. Those are facts about these assets and this account, and
+> they hold whoever looks next.
+>
+> **Not durable:** the order things were done in, the mistakes and their fixes, and anything that
+> reads like method. If a repeatable way of cutting library footage is ever wanted, it should be
+> designed deliberately — not reverse-engineered from this.
+
 ---
 
 ### Strategy
@@ -173,10 +185,12 @@ Four specific breaks, all now fixed:
    sachets — the one component that *is* consumed. That beat now reads "The only thing you replace
    is the powder", which is what the shot shows and a stronger line besides.
 
-**The check that was missing, and is now standing procedure for any library cut:** before burning
-captions, render the assembly without them, step it frame by frame, and write down what is actually
-on screen in each second. Only then write the cards against that list. A caption script carried over
-from a creator brief describes footage that was never shot.
+What fixed it on the day: rendering the assembly without captions first, stepping through it and
+writing down what was actually on screen each second, then writing the cards against that list.
+Noted because it is what happened, **not as a process anyone should inherit.** This whole document
+is one session's improvisation written up after the fact — the ad was prompted into existence, not
+produced through a method. Treat the EDL and the claims decisions below as facts about these
+specific assets; do not treat any of it as a way of working.
 
 
 ---
