@@ -10,9 +10,35 @@ Three Creator Script Ad concepts for Rollr, built from a hook structure borrowed
 | Opens on | The mechanism | The failed alternative | The objection |
 | Grammar | Macro-led, face arrives ~14s | Domestic, face in frame from ~2s | Fastest cuts, on-screen maths |
 | Variations | A1 click · A2 powder · A3 shake | B1 "Eleven" · B2 washbag · B3 drawer | C1 say-it-first · C2 the card · C3 mine-worked-fine |
+| Runtimes | 38s · 38s · 35s | 32s · 42s · 38s | 35s · 32s · 43s |
 | Self-score | 19/22 | 19/24 | 22/24 |
 
-All three: 9:16, 17–22s, single creator, one location, phone-shot, lower-third phrase-chunked captions.
+All three: 9:16, single creator, one location, phone-shot, lower-third phrase-chunked captions.
+
+## Runtime: the words are the fixed thing
+
+These films run **31–43 seconds**, not the 17–22s an earlier draft specified. That box was
+inherited from the reference ad and was never a requirement — good DR runs to 40s, and Rollr's
+own films run 44–67s.
+
+The correction came out of building an animatic rather than out of reading. A script read at a
+natural pace came back at 39s against a brief claiming 20s, so every variation was measured:
+the authored frame timings implied **230–342 words per minute**. The reference ad is 67 words in
+17.47s — **230 wpm**, already a brisk read with no pauses — and a natural conversational delivery
+measures about **160 wpm**. Several of these scripts could not have been performed at any speed.
+
+So the runtimes were re-derived from word count, and the storyboards stretched to fit:
+
+- **~160 wpm** is the planning rate. A word costs 0.375 seconds.
+- **No beat sits on screen longer than ~3.5s.** Seven frames across 40s is a six-second average
+  hold, and both flow reads of the reference put its likely drop-points at its *slowest*
+  stretches — which were only 2.5s. Coverage went from 7–8 setups per variation to 17–26 beats.
+- **If it needs to be longer, add shots. Do not cut lines.**
+
+The extra room paid for itself: B2 keeps both of its proof beats, C2's written-card maths gets a
+beat per number instead of being rushed, and A1 carries the origin line without anything else
+coming out. The honest cost is production time — roughly 90 minutes per variation becomes two to
+three hours.
 
 ## The reference, and what was taken from it
 

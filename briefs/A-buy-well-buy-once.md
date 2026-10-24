@@ -1,7 +1,13 @@
 # Creator Script Ad — Concept A: "Buy well, buy once"
 
 **Batch:** Buy well, buy once (3 concepts) · **This brief:** A of 3
-**Format:** Creator Script Ad (net-new shoot) · 9:16 · 17–22s · burned-in lower-third captions
+**Format:** Creator Script Ad (net-new shoot) · 9:16 · **34–38s** · burned-in lower-third captions
+
+> **Runtime and pacing — read before adding or cutting a line.**
+> **Target 34–38s per variation.** As measured: **A1 ≈ 38s (102 words), A2 ≈ 37.5s (100 words), A3 ≈ 35s (93 words).**
+> **The delivery rate is ~160 wpm** — a relaxed, conversational read with air around the lines. That is the measured natural rate and it suits this concept; it is *not* the reference ad's rate (Finisterre runs 67 words in 17.47s = 230 wpm, which is a brisk read at its ceiling). Do not time this script against the reference.
+> **No single shot sits on screen longer than ~3.5s.** Every frame below is broken into numbered beats in the Shot list for exactly this reason — a macro held for five seconds is where attention dies.
+> **So: if this film needs to change, add shots, don't cut lines.** A word costs 0.375s. A beat costs nothing but another thirty seconds on the day.
 **Product in frame:** Rollr bottle, **gemstone finish only** (Rose Quartz / Blue Dumortierite / Green Aventurine, £45). **Not Steel.**
 **Status:** ready to shoot once the two CONFIRM items in `Numbers used` are answered.
 
@@ -81,82 +87,54 @@ Rollr's buyer is solution-aware and the deodorant-claim market is spent, so the 
 
 Three variations. They differ on **the opening mechanical action, the opening line and the objection each one takes on** — not on synonyms. A1 opens on the click, A2 on the powder, A3 on the shake with the old stick in shot.
 
+**The origin beat — A1 only.** A1 F5 adapts a line Rollr already owns, from September's `DR - Aesthetics/Design Angle` films (`Ad Creative/09_September/DR - Aesthetics/Design/`, Hook 1/2/3, 4:5 and 9:16):
+
+> *Original:* "A small British brand decided the most used object in your bathroom should be the most beautiful."
+> *Adapted:* "It's a small British brand. They decided the thing you use every day of your life shouldn't be the thing you keep chucking out."
+
+We keep the construction — **origin + deliberateness + modesty**, which is what the line is actually doing — and drop the second half, because "should be the most beautiful" re-runs the aesthetic/design angle, which is 38 of 187 shipped hooks and eight briefs of "too beautiful to hide". The adapted half lands on *this* concept's argument instead: disposability. It is also broken into two short sentences and uses "chucking out" so it reads as the creator talking, not as brand voice reading a line.
+
+**Placement: mid-script credibility beat, never the hook.** It sits at 11.2s, immediately after the glass/stone evidence macro and immediately before the price lands — so the viewer learns who made this thing at the exact moment they are being asked to accept £45. The reference ad does the same: it withholds the brand until 3.5s and names it in caption, not as an opener. Before this round, Concept A never established Rollr at all; the bottle did all the work and the maker was anonymous. This is the fix.
+
+**Why A1 and not A2 or A3.** A1's skeleton is proverb → personal proof → *credential* → price, which is the Finisterre shape and has a credential slot sitting empty in it. The other two do not: **A2** runs on flat first-person economics, and a brand-origin beat would soften exactly the coldness that makes "you pay it £3 at a time for thirty years and you never notice" land. **A3** concedes to the cheap stick on purpose; following that concession with "it's a small British brand" would read as pleading. And putting the same line in all three would collapse the thing keeping this concept honest — the batch diversity gate. If the line tests well in A1, iterate it there rather than spreading it.
+
+**Take this one line and nothing else from that film.** The rest of its copy is claims-dense — one-of-a-kind gemstone, designed to keep forever, stops odour in its tracks, The Times masthead — and all of it is either banned in this batch or a permissions question. Separately: **do not use "Rollr Reimagines Deodorant As We Know It…"** anywhere. That is a third-party press headline, not Rollr's copy, and it sits in the permissions bucket.
+
 **Batch note:** the *subscription* metaphor ("Nobody tells you deodorant is a subscription… you pay it £3 at a time for thirty years") belongs to **A2 and only A2** in this batch. Concept C is dropping its version. Do not let it migrate into A1, A3 or any caption.
 
 | Name | Hook | Frame 1 | Frame 2 | Frame 3 | Frame 4 | Frame 5 | Frame 6 | Frame 7 |
 |---|---|---|---|---|---|---|---|---|
-| **A1 — Buy cheap, buy twice** | *Visual:* macro, hands only, the stone rollerball being pressed back into the top of the glass bottle — **audible click on frame 1**. *Text overlay:* "Buy cheap, buy twice." *Sound:* the click, dry room tone, no music yet. *Vibe:* close, domestic, unlit, slightly cold daylight. | **0.0–2.2s** · ACTION: ball pressed back in, click, hands rotate the bottle a quarter turn to check it's seated. VO: "Buy cheap, buy twice." | **2.2–4.5s** · ACTION: bottle set down on the shelf with a glass clack, hands withdraw. VO: "I've bought the same deodorant about forty times. This is the first one I've only bought once." | **4.5–8.0s** · ACTION: sachet snipped, powder tipped into the empty bottle, then water poured in from a jug — the line rising through the powder. VO: "The refill's a powder. Snip it, tip it in, pour the water on." | **8.0–11.0s** · ACTION: ball pressed back in (**the click**), then macro — thumb turning the stone, daylight raking the glass facets. VO: "The bottle's glass, the roller's stone. Nothing in it wears out — the powder is the only part you buy again." | **11.0–14.0s** · ACTION: shake, then roll it on — first arm in shot, still no face. VO: "Thirty seconds, once a month. And it's a proper natural one that isn't hard work, and doesn't quit at four o'clock." | **14.0–17.8s** · ACTION: cut to face for the first time, looking down at the bottle, then up. VO: "You'll put deodorant on [22,000] times in your life. I was buying a whole new plastic one every couple of hundred." | **17.8–20.2s** · ACTION: sets the bottle back on the shelf, leaves frame, holds on the shelf. VO: "This one was £45. Once." |
-| **A2 — The bit nobody tells you** | *Visual:* extreme macro, powder falling into an empty glass bottle, lit from the side so the cloud reads — **nothing else in frame**. *Text overlay:* "Nobody tells you deodorant is a subscription." *Sound:* the powder hitting glass, close. *Vibe:* quiet, almost ASMR, no music for 2s. | **0.0–2.3s** · ACTION: sachet torn, powder cascading into the empty bottle. VO: "Nobody tells you deodorant is a subscription." | **2.3–4.8s** · ACTION: pull back a step — two hands, a jug of water waiting on the shelf. VO: "You pay it £3 at a time for thirty years and you never notice. I noticed." | **4.8–8.5s** · ACTION: water poured in from a jug, rising through the powder; cut to the ball being pressed back in; **click**. VO: "Powder in, water on, press the ball back in. That's the refill." | **8.5–12.0s** · ACTION: macro — glass facets, then the stone ball rolling under a thumb. VO: "The bottle's glass and the roller's stone, so there's nothing in it that wears out." | **12.0–15.5s** · ACTION: shake, roll on, arm in frame. VO: "It's a natural one that actually holds — not perfect-world natural, Tuesday natural." | **15.5–18.5s** · ACTION: face in shot for the first time, flat delivery, shrug. VO: "[22,000] times — that's how many times you use deodorant in a life. I was buying a new plastic one every couple of hundred of them. This one was £45, once." | **18.5–20.5s** · ACTION: bottle placed on the shelf next to everything else. VO: "It just lives there now." |
-| **A3 — My £3 one worked fine** | *Visual:* macro, hands shaking the just-refilled glass bottle; **out of focus behind it, an unbranded plastic stick lying on its side**. *Text overlay:* "My £3 one worked fine, too." *Sound:* the shake — powder and water in glass. *Vibe:* honest, unglamorous, a real shelf. | **0.0–2.4s** · ACTION: the shake, hard and close. Generic stick soft in the background. VO: "My £3 one worked fine, too." | **2.4–5.0s** · ACTION: hand reaches past the glass bottle, picks up the generic stick, drops it in a drawer, shuts it. VO: "That was never the problem. The problem was buying it again, and again, and again." | **5.0–8.5s** · ACTION: rack focus to the glass bottle; macro over the facets and the stone ball. VO: "This one's glass with a stone roller. You don't throw any of it away." | **8.5–11.5s** · ACTION: sachet snipped and tipped in; water poured from a jug; ball pressed back in, **click**. VO: "Powder, water, press the ball back in. That's the whole refill." | **11.5–14.5s** · ACTION: roll it on — arm only. VO: "And it's a natural one that isn't precious about it. It just works through the day." | **14.5–18.0s** · ACTION: face, first time, mid-sentence. VO: "You use deodorant [22,000] times in a life. That's [X] plastic sticks in a bin — or this one, at £45, once." | **18.0–20.5s** · ACTION: hand sets the bottle down, steps away, shelf holds. VO: "Buy cheap, buy twice. I just stopped." |
-
-**Hook package, stated in full (all four components):**
-
-| | A1 | A2 | A3 |
-|---|---|---|---|
-| **Text overlay** | "Buy cheap, buy twice." | "Nobody tells you deodorant is a subscription." | "My £3 one worked fine, too." |
-| **Sound** | The ball clicking back in, naked, no music | Powder falling into empty glass | The shake — grit and water in glass |
-| **Visual** | Collar pressed home, hands only, macro | Powder cascade into empty bottle, macro | Shake, with an unbranded stick out of focus behind |
-| **Vibe** | Cold daylight, domestic, dry | Quiet, near-ASMR, close | Honest, cluttered shelf, no styling |
-| **Opening frame** | Two hands and a glass bottle at 15cm, mid-motion | A falling column of powder filling the frame | A bottle moving fast enough to blur, a plastic stick behind it |
-
----
-
-### Shot list
-
-One session, one room, one creator, one phone. Shoot in this order so the bottle is empty when you need it empty. Have a **jug of water** on set — the refill is poured, not run under a tap. Budget 90 minutes plus VO.
-
-| # | Setup | Shot size | In frame | Approx. duration needed | Notes |
-|---|---|---|---|---|---|
-| 1 | **The click** | Extreme macro (10–15cm) | Two hands, the rollerball being pressed back into the top of the glass bottle | 6s × 4 takes | The hero frame. Light from the side so the glass edge catches. Get a clean, loud click. |
-| 2 | **The set-down** | Macro, static | Bottle meeting the shelf, hands leaving | 5s × 3 | Audible glass clack. Let the frame hold empty for a second after. |
-| 3 | **Powder in** | Extreme macro | Sachet **snipped**, powder falling into an empty bottle | 8s × 4 | Backlight the cloud. Shoot against a dark area of the room. Scissors in frame is fine and reads as real. |
-| 4 | **Water in** | Macro | Water **poured from a jug** into the bottle, line rising through the powder | 6s × 3 | Not a running tap. Needs the glass to read as glass — this shot is the "why it lasts" evidence. |
-| 5 | **The shake** | Macro, handheld | Bottle in one fist, moving | 5s × 3 | One version with the generic stick behind (for A3), one clean. |
-| 6 | **The stone ball** | Extreme macro | Thumb turning the rollerball in its housing | 6s × 3 | Gemstone finishes only. This is the second evidence shot. |
-| 7 | **The glass facets** | Extreme macro, slow pan | Bottle body, daylight raking across the facets | 6s × 2 | Handheld drift is fine and desirable. |
-| 8 | **Application** | Mid-close, arm only | Forearm/underarm, roll-on in motion | 6s × 3 | Application is on-message as of 2026-08-11. No face. |
-| 9 | **The drawer** (A3 only) | Mid | Hand picking up an unbranded plastic stick, dropping it in a drawer, closing it | 6s × 3 | **Unbranded generic only.** Peel or cover any label. |
-| 10 | **The face** | Mid-close, eye level | Creator, undone, in the same room | 10s × 4 | Shoot last, when the room is warm and they've stopped performing. |
-| 11 | **The shelf, held** | Wide-ish static | Bottle on the shelf among real objects, no hands | 5s × 2 | The last frame of the film. |
-| 12 | **Sound-only** | — | Click, glass clack, powder, shake, pouring water | 10s each | Record in silence with the phone 10cm away. |
-
-**Coverage rule:** every setup twice — once tight, once a step wider. Eleven picture setups, ~22 clips, under two hours.
-
----
-
-### On-screen text
-
-Lower third, phrase-chunked, hard in / hard out, **no karaoke word highlighting, no pop or scale animation** — cards simply replace each other. White, medium-weight system sans, sentence case with real punctuation, thin dark drop shadow, no box. Sit the baseline above the Reels UI and keep every card clear of the bottle. Cards run to the VO and may ride over a picture cut.
-
-**A1 — Buy cheap, buy twice**
+| **A1 — Buy cheap, buy twice** · 38.4s · 102 words · ~160 wpm
 
 | In | Out | Card |
 |---|---|---|
-| 0.0 | 1.4 | Buy cheap, buy twice. |
-| 2.2 | 3.3 | I've bought the same deodorant |
-| 3.3 | 4.5 | about forty times. |
-| 4.5 | 5.5 | This is the first one |
-| 5.5 | 6.2 | I've only bought once. |
-| 6.2 | 7.0 | The refill's a powder. |
-| 7.0 | 8.0 | Snip it, tip it in, pour the water on. |
-| 8.0 | 9.1 | The bottle's glass, the roller's stone. |
-| 9.1 | 10.1 | Nothing in it wears out — |
-| 10.1 | 11.0 | the powder is the only part |
-| 11.0 | 11.8 | you buy again. |
-| 11.8 | 12.8 | Thirty seconds, once a month. |
-| 12.8 | 13.7 | And it's a proper natural one |
-| 13.7 | 14.5 | that isn't hard work, |
-| 14.5 | 15.4 | and doesn't quit at four o'clock. |
-| 15.4 | 16.4 | You'll put deodorant on |
-| 16.4 | 17.3 | [22,000] times in your life. |
-| 17.3 | 18.4 | I was buying a whole new plastic one |
-| 18.4 | 19.1 | every couple of hundred. |
-| 19.1 | 19.8 | This one was £45. |
-| 19.8 | 20.4 | Once. |
+| 0.0 | 1.5 | Buy cheap, buy twice. |
+| 1.8 | 3.4 | I've bought the same deodorant |
+| 3.4 | 4.8 | about forty times. |
+| 5.1 | 6.5 | This is the first one |
+| 6.5 | 7.9 | I've only bought once. |
+| 8.2 | 9.5 | The refill's a powder. |
+| 9.8 | 11.0 | Snip it, tip it in, |
+| 11.0 | 12.3 | pour the water on. |
+| 12.8 | 14.7 | Thirty seconds, once a month. |
+| 15.0 | 16.5 | The bottle's glass, |
+| 16.5 | 17.6 | the roller's stone. |
+| 17.6 | 18.8 | Nothing in it wears out. |
+| 19.1 | 20.8 | It's a small British brand. |
+| 21.1 | 22.6 | They decided the thing you use |
+| 22.6 | 24.0 | every day of your life |
+| 24.3 | 25.9 | shouldn't be the thing |
+| 25.9 | 27.8 | you keep chucking out. |
+| 28.1 | 29.6 | I'll put deodorant on |
+| 29.6 | 31.3 | [22,000] times in my life. |
+| 31.8 | 33.6 | I was buying a whole new plastic one |
+| 33.6 | 35.3 | every couple of hundred. |
+| 36.1 | 37.5 | This one was £45. |
+| 37.5 | 38.4 | Once. |
 
-**A2 and A3** follow the same grid and the same rules: 3–7 words per card, 0.8–1.4s on screen, cut on phrase boundaries not grammar, first card up on frame 1 and gone before 1.5s. Caption the VO verbatim — do not tidy it into headline copy.
+**A2 — The bit nobody tells you** · 37.5s · 100 words. **A3 — My £3 one worked fine** · 34.9s · 93 words. Both follow the same grid and the same rules: **3–7 words per card, 1.2–1.9s on screen** (longer than the reference's, because the read is slower), **a 0.2–0.5s gap between cards at every phrase boundary** — the air is doing work and the cards should not run continuously — cut on phrase boundaries not grammar, first card up on frame 1. Caption the VO verbatim — do not tidy it into headline copy.
 
-**No end card, no logo lock-up, no price card, no "shop now" in picture.** The CTA lives in the ad unit and the post caption. (This follows the reference, deliberately — but note both independent reads called the total absence of an in-picture product name a weakness. If a version is wanted with one, add a single lower-third word-mark at 19.5s and nothing else, and test it as a fourth variant.)
+**No end card, no logo lock-up, no price card, no "shop now" in picture.** The CTA lives in the ad unit and the post caption. (This follows the reference, deliberately — but note both independent reads called the total absence of an in-picture product name a weakness. If a version is wanted with one, add a single lower-third word-mark over the final beat (A1 ≈ 37.5s) and nothing else, and test it as a fourth variant.)
 
 ---
 
@@ -175,9 +153,9 @@ Lower third, phrase-chunked, hard in / hard out, **no karaoke word highlighting,
 | `Ad Creative/10_October/B2/2610_Rollr_TheQuietUpgrade_6A_9x16.jpg` | Travertine bathroom, mirror, bottle in situ | Setting and daylight quality. Ours should be **less styled** than this. *Reference only, rights unresolved.* |
 | `Ad Creative/06_June/Luxury Flat Lay Brief 10 /LuxuryFlatLay_Brief10_9x16.jpg` | Luxury flat lay | The look we are deliberately **not** matching — shown as a counter-example. *Reference only, rights unresolved.* |
 | `ASSETS/LoFi Images/Image 1 - Rollr.jpg` | Lo-fi phone-camera product photo | The un-designed register the whole film should sit in. *Reference only, rights unresolved.* |
-| `Ad Creative/08_August/B1 - Us Vs Them Static/2607_Rollr_UsVsThemStaticBrief_1_4x5.jpg` | Us-vs-them table against an **unbranded** generic plastic stick | The defensible way to show the alternative. Copy this treatment for A3's drawer shot. *Reference only, rights unresolved.* |
+| `Ad Creative/08_August/B1 - Us Vs Them Static/2607_Rollr_UsVsThemStaticBrief_1_4x5.jpg` | Us-vs-them table against an **unbranded** generic plastic stick | The defensible way to show the alternative. Copy this treatment for A3's B17/B18 drawer beats. *Reference only, rights unresolved.* |
 
-**Gap flagged, honestly:** the index contains **no clean, product-only, brand-shot macro of the refill in 9:16 with no creator and no burned-in captions** — tagged and absent across 244 walked folders. That absence is precisely why this is a net-new shoot and not a motion ad, and shots 1–7 of the shot list exist partly to create that missing library.
+**Gap flagged, honestly:** the index contains **no clean, product-only, brand-shot macro of the refill in 9:16 with no creator and no burned-in captions** — tagged and absent across 244 walked folders. That absence is precisely why this is a net-new shoot and not a motion ad, and beats B4–B8b exist partly to create that missing library.
 
 ---
 
@@ -201,7 +179,7 @@ Lower third, phrase-chunked, hard in / hard out, **no karaoke word highlighting,
 
 **Alternate 2 — mechanism first, flat**
 
-> Powder in. Water in. Click. Shake. Roll.
+> Powder in. Water on. Click. Shake. Roll.
 >
 > That's a Rollr refill, and it's the only part of this deodorant you ever buy twice. The bottle is faceted glass, the roller is stone, and neither of them wears out.
 >
@@ -217,7 +195,7 @@ Lower third, phrase-chunked, hard in / hard out, **no karaoke word highlighting,
 |---|---|---|---|
 | **£45** | A1 F6, A2 F6, A3 F6; primary caption; alt 2 (implied) | ✅ OK | Gemstone finishes only. Must never run over Steel footage. |
 | **£35** | Alt caption 1 only ("From £35") | ✅ OK | Steel. No gemstone language anywhere near it. |
-| **[22,000] — "how many times you use deodorant in your life"** | A1 F6 + caption cards 15.4–17.3s; A2 F6; A3 F6 | ⚠ CONFIRM | **Bracketed placeholder.** This is a **human application count over a lifetime**, which is the approved, repeatedly-shipped sense of the number (`EDU_T4_05_VID_KineticType_Upgrader_WHY-IMPORTANT_22000-times`, marked APPROVED; `BigNumbers_Brief2_P2`; all three MASH UP hooks; the founder on the Outlaws podcast: *"That's 22,000 times in our lives."*). **It is NOT a bottle-capacity figure.** ⛔ **Do not write "22,000 lifetime uses"** — that phrasing appears exactly once, in a creator's handwritten list (`Shahara Prajapat_If You Could Change One Thing_9x16.mov`), and `brand.yml` flags it as the same number carrying a *different*, unsubstantiated claim. ⛔ Never ship the bare number with no unit — `HOOK 3 - MASH UP ROLLR-9X16.mp4` already did that over a competitor stick. **CONFIRM: the derivation of 22,000 (applications per day × years).** |
+| **[22,000] — "how many times you use deodorant in your life"** | A1 F6 + caption cards 29.6–31.3s; A2 F6; A3 F6 | ⚠ CONFIRM | **Bracketed placeholder.** This is a **human application count over a lifetime**, which is the approved, repeatedly-shipped sense of the number (`EDU_T4_05_VID_KineticType_Upgrader_WHY-IMPORTANT_22000-times`, marked APPROVED; `BigNumbers_Brief2_P2`; all three MASH UP hooks; the founder on the Outlaws podcast: *"That's 22,000 times in our lives."*). **It is NOT a bottle-capacity figure.** ⛔ **Do not write "22,000 lifetime uses"** — that phrasing appears exactly once, in a creator's handwritten list (`Shahara Prajapat_If You Could Change One Thing_9x16.mov`), and `brand.yml` flags it as the same number carrying a *different*, unsubstantiated claim. ⛔ Never ship the bare number with no unit — `HOOK 3 - MASH UP ROLLR-9X16.mp4` already did that over a competitor stick. **CONFIRM: the derivation of 22,000 (applications per day × years).** |
 | **[X] plastic sticks** | A3 F6 only | ⚠ CONFIRM | **Bracketed placeholder.** Derived: 22,000 applications ÷ applications per stick. Needs both numbers and the stated assumption. If it cannot be substantiated, **cut the clause** and let A3 F6 run as "You use deodorant [22,000] times in a life. This one's £45, once." |
 | **"every couple of hundred"** (applications per plastic stick) | A1 F6, A2 F6 | ⚠ CONFIRM | Deliberately vague and first-person, so it reads as the speaker's rough sense rather than a stat — but it is still an implied rate. If the [X] figure above is substantiated, replace this with the real number in both variations. If 22,000 is never substantiated, this clause goes with it. |
 | "forty times" / "about forty times" | A1 F2; primary caption | ✅ OK as rhetoric | First-person, approximate, framed as the speaker's own count. Not presented as a statistic. If legal prefers, change to "more times than I can count". |
@@ -244,7 +222,7 @@ Walked line by line against the banned and regulated list in `constraints.md` §
 - **No "medical grade" / "clinical grade"** — absent from all three variations and all three captions.
 - **No hormone, endocrine or oestrogen claim** — absent.
 - **No "lymphatic drainage"** — absent. No gua sha or massage language either.
-- **No absolute "stops odour"** — the strongest efficacy phrasings used are "doesn't quit at four o'clock" (A1), "actually holds" (A2) and "just works through the day" (A3). These are durational, first-person and non-absolute.
+- **No absolute "stops odour"** — the strongest efficacy phrasings used are "actually holds" (A2) and "just works through the day" (A3). These are durational, first-person and non-absolute. **A1 carries no efficacy phrasing at all** after round 3.
 - **No wetness / antiperspirant language** — "keeps you dry", "stay drier", "de-perspirant", "antiperspirant" and "reduces sweat" do not appear. There is no sweat imagery in the shot list either, which keeps the film clear of the `claims.health.dryness` surface entirely.
 - **No efficacy superlative** — no "unmatched", no "best", no comparative performance claim against any named or unnamed product. A3 explicitly *concedes* that the cheap one works.
 - **No press masthead, no journalist byline, no award** — none in script or caption.
@@ -255,8 +233,10 @@ Walked line by line against the banned and regulated list in `constraints.md` §
 **Needs sign-off before this ships — three items, all named:**
 1. **[22,000]** — derivation required. The claim as written is *"how many times you use deodorant in your life"*, which is the approved sense and an assertion about human behaviour, not about the product. That is the weaker and more defensible of the two possible readings, but it still needs its arithmetic on file. **⛔ The phrase "22,000 lifetime uses" must not be used** — it reads as a bottle-capacity claim, it has shipped only once, in a creator's handwritten list, and nobody has substantiated it. **If 22,000 cannot be derived at all, this concept does not ship in this form**, because the number is what closes the price frame.
 2. **[X] plastic sticks** and **"every couple of hundred"** — derived rates. Need the assumption stated, or both are cut and the price line stands alone.
-3. **"A proper natural one that isn't hard work"** (A1 F5) — an implicit comparative against the natural-deodorant category. First-person and non-absolute, and Rollr has run harder versions ("You tried the natural deodorants. You're not the problem. They are."), but a second pair of eyes should confirm it sits inside what has already been cleared.
-4. **Duration claims — "doesn't quit at four o'clock" (A1 F5), "it just works through the day" (A3 F5), "actually holds… Tuesday natural" (A2 F5).** The copy audit found duration asserted three times in seven months with **no wear test on file**. First-person creator experience is materially weaker exposure than brand voice, so these are probably fine as written — but only if they are true for the person saying them. **Direction to production, binding: the creator must be describing their own actual experience of the product, not reading a line.** Brief them on the product first, let them use it, and if they will not stand behind the duration, cut the clause rather than coach it. Do not let any of these three lines migrate into the ad caption or an on-screen headline, where it becomes brand voice and the exposure changes.
+3. **"a natural one that actually holds — not perfect-world natural, Tuesday natural"** (A2 F5) and **"a natural one that isn't precious about it"** (A3 F5) — implicit comparatives against the natural-deodorant category. First-person and non-absolute, and Rollr has run harder versions ("You tried the natural deodorants. You're not the problem. They are."), but a second pair of eyes should confirm they sit inside what has already been cleared. *(A1's equivalent line was cut in round 3.)*
+4. **Duration claims — "it just works through the day" (A3 F5) and "actually holds… Tuesday natural" (A2 F5).** *(A1 carries no duration claim: its "doesn't quit at four o'clock" came out in round 3 to pay for the origin beat and was not restored in round 4, because the origin beat is the better use of that frame. A1 is therefore the lowest-exposure variation of the three — worth knowing if it is the one that goes out first.)* The copy audit found duration asserted three times in seven months with **no wear test on file**. First-person creator experience is materially weaker exposure than brand voice, so these are probably fine as written — but only if they are true for the person saying them. **Direction to production, binding: the creator must be describing their own actual experience of the product, not reading a line.** Brief them on the product first, let them use it, and if they will not stand behind the duration, cut the clause rather than coach it. Do not let either of these lines migrate into the ad caption or an on-screen headline, where it becomes brand voice and the exposure changes.
+
+**Clean, added in round 3 — the origin line.** "It's a small British brand. They decided the thing you use every day of your life shouldn't be the thing you keep chucking out." carries **no claim and needs no substantiation**: no efficacy, no superlative, no number, no comparison, no gemstone language, no durability promise about the object. "Small British brand" is a statement of fact about Rollr. The clause about disposability is a statement of the company's intent, not of the product's performance. It is the only part of the source film that can be lifted; everything else in it is banned or permissioned (see the UGC Script note).
 
 **Named human checkpoint:** to be signed by \_\_\_\_\_\_\_\_\_\_ before shoot, confirming (a) the 22,000 derivation is on file **and the approved "times you use deodorant in your life" phrasing is what is in the cut**, (b) the gemstone/Steel split is respected in the finished cut, (c) the delivered film contains no asset from the index, (d) the creator stands behind the duration line they speak, and (e) the film is visually different from the last five shipped ads.
 
@@ -269,7 +249,7 @@ Self-graded against the 12-criterion rubric in `panel.md` §5. 0 = fails, 1 = pa
 | # | Criterion | Score | Honest reasoning |
 |---|---|---|---|
 | 1 | **Gate — Evidentiary rationale** | **2** | Stated in one sentence in Strategy, and it is a coverage gap in Rollr's own account (refill-as-hook twice in seven months; `shows_parts: refill` at 0.94%), not "a competitor is running it". |
-| 2 | **Gate — Brand-swap test** | **2** | Frame 1 is a faceted glass bottle taking a powder refill with an audible click as the stone ball seats. No other deodorant brand can upload this. |
+| 2 | **Gate — Brand-swap test** | **2** | Frame 1 is a faceted glass bottle taking a powder refill with an audible click as the stone ball seats. No other deodorant brand can upload this. A1 now also names the maker's origin mid-script, which tightens it further. |
 | 3 | **So-what / first-second relevance** | **2** | *For:* the person who has already decided their £3 stick is fine and has never seen a refillable deodorant. *The thing in the first second that says so:* a hand pressing a stone rollerball back into a glass bottle — the object is unrecognisable as a deodorant, which is the curiosity, and the caption gives the frame in four words. |
 | 4 | **Angle written as a belief-reframe** | **2** | Written in Strategy: *you think the problem is that £45 is a lot for a deodorant; it's actually that you've been buying the same object forty times instead of once.* Rollr's category, not Finisterre's. |
 | 5 | **Gate — What was borrowed, named** | **2** | Bucket (a) vehicle/format, named in Visual Reference with a line-by-line table. Source named with shortcode and date, and explicitly classified as indirect/non-competing with the reason. Not a surface-treatment borrow. |
@@ -277,12 +257,16 @@ Self-graded against the 12-criterion rubric in `panel.md` §5. 0 = fails, 1 = pa
 | 7 | **Pre-qualification + relevance/curiosity/emotion** | **1** | A1 ("Buy cheap, buy twice") and A3 ("My £3 one worked fine, too") pre-qualify in five and six words and carry relevance plus curiosity. **A2's hook is nine words and the weakest of the three** — "Nobody tells you deodorant is a subscription" is cleverer than it is clear, and it is the one I'd expect to lose. Kept because it is a genuinely different objection (ongoing cost vs unit cost) and the batch needs the spread, but it is the first thing to cut if only two can be shot. |
 | 8 | **Customer vocabulary, sourced not invented** | **1** | **This is the brief's real weakness and I am not going to dress it up.** "Buy cheap, buy twice" is a general British proverb, not a sourced Rollr-customer phrase. The price-objection vocabulary is traceable to Rollr's own shipped copy ("£45 for a deodorant?! We can explain…", "£45 for a deodorant, in this economy?", "yes it's £45. yes it's a deodorant.") and to the reference ad's own comment section ("I have a jumper I bought from a fast fashion brand… still going strong 13 years later"), but **no Rollr review export or comment mine was run for this brief** — `copy.md` is an audit of what Rollr *said*, not of what customers said back. **Recommended before shoot:** pull the comment threads on the September platform-native price assets and swap one of the three hooks for a verbatim customer line. That would move this to a 2 and is cheap to do. |
 | 9 | **Gate — Visual difference, proven by test** | **2** | *Scroll-past:* yes — hands-only macro on a domestic shelf against a library of faces, seamless packshots and typographic statics. *Mute test:* with sound off and captions stripped, this is a pair of hands doing an unfamiliar mechanical job; none of the last five shipped ads is that. *Against the reference:* indoor/close vs outdoor/wide, no body, no landscape. Different framing, setting, pacing and opening image. |
-| 10 | **Batch-level diversity** | *Not scored here* | Scored once across all three concepts. Within this brief, A1/A2/A3 differ on opening mechanical action, opening objection and the presence of the comparison object — not just copy. Whether Concept A is sufficiently distinct from B (cupboard-of-old-deodorants) and C (price-stated-up-front) is for the batch reviewer; on the mute test A is the only one of the three that is hands-only and face-free, which is the intended separation. |
-| 11 | **One job, one bet** | **2** | One job: close the price-justification frame with the mechanism. One avatar: the solution-aware switcher who thinks £45 is absurd. The 20% bet is named in Strategy (face-free macro open vs a talking head). Eco, scent, gemstone properties, awards and press are all deliberately absent — the ad does not do a second job. |
+| 10 | **Batch-level diversity** | *Not scored here* | Scored once across all three concepts. Within this brief, A1/A2/A3 differ on opening mechanical action, opening objection, the presence of the comparison object and now the presence of the origin beat (A1 only) — not just copy. Whether Concept A is sufficiently distinct from B (cupboard-of-old-deodorants) and C (price-stated-up-front) is for the batch reviewer; on the mute test A is the only one of the three that is hands-only and face-free, which is the intended separation. |
+| 11 | **One job, one bet** | **2** | One job: close the price-justification frame with the mechanism. One avatar: the solution-aware switcher who thinks £45 is absurd. The 20% bet is named in Strategy (face-free macro open vs a talking head). Eco, scent, gemstone properties, awards and press are all deliberately absent. The round-3 origin beat is a **credibility** line, not a second argument — it says who made it, not why it is better — so the ad still does one job. Watch this one in review: if it starts reading as a brand-story beat, it is the thing that would break this score. |
 | 12 | **Pre-ship human checkpoint** | **1** | The checkpoint is written into Claims check with five specific things to confirm, but **the signatory line is blank and the 22,000 derivation is not attached**. Until a named person signs and that arithmetic is on file, this is a 1. It becomes a 2 the day the figure is produced. |
 
 **Total: 19/22** (criterion 10 excluded, scored at batch level), **no gate failures**, against a suggested ship threshold of 16/22.
 
 **Where it is weak, in one place:** criterion 8. The hooks are well-shaped but the vocabulary is the writer's, not the customer's, because no review or comment mine was run. **Before shoot, pull the comment threads on the September platform-native price assets and swap one of the three hooks for a verbatim customer line** — this is the single cheapest improvement available to this brief and it is a recommendation, not a nicety. Criterion 12 is a 1 purely because the 22,000 derivation is not attached — which is also the single thing that could stop this ad shipping at all, since the whole price argument rests on it.
+
+**Revision note (round 4).** The 17–22s box was dropped. The scripts are **unchanged from round 3** — nothing was cut — and every frame timestamp was re-derived at the measured **~160 wpm** conversational rate, giving **A1 38.4s, A2 37.5s, A3 34.9s**. The real work was the storyboard: seven frames over 37 seconds is 5.3s a beat, which is where attention dies, so the Shot list is now a **19-beat bank with a hard ~3.5s ceiling per shot**, each frame mapped to the beats that sit under it. A1 F5 (9.0s of VO) carries four beats; A2 F6 (12.0s, the longest frame in the batch) carries three face beats. The caption grid was rebuilt at the new timings with longer cards and deliberate gaps between them. **Net effect: A1 now holds the origin beat and the price beat with air around both, and A2 F6 can carry its full 32-word payoff in one frame** — nothing is fighting for room any more — the round-3 note below, which said A1 had no slack left, no longer applies.
+
+**Revision note (round 3).** Rollr's existing "A small British brand decided…" line was adapted into **A1 only**, as a mid-script credibility beat (18.8–27.8s after the round-4 re-time) between the evidence macro and the price. The second half of the original ("should be the most beautiful") was dropped because it re-runs the brand's most saturated angle; the adapted half lands on disposability. A1's duration claim was cut to make room, which lowers that variation's claims exposure. ~~A1 now runs 21.8s — still inside 17–22s, but it is the longest of the three and there is no slack left in it; any further addition means something comes out.~~ *(Superseded in round 4: the runtime constraint was dropped and A1 now runs 38.4s with room. The duration line was **not** restored — the origin beat is the better use of that frame, and leaving it out keeps A1 the lowest-claims variation.)* A2 and A3 are unchanged, deliberately, and the reasoning is in the UGC Script section.
 
 **Revision note (round 2).** Three changes were made after the first pass: (1) the figure was corrected from "22,000 lifetime uses" (a bottle-capacity claim, unsubstantiated, shipped once) to the approved sense — *22,000 times you use deodorant in your life* — and every instance of it is now explicitly paired with the alternative being rebought, because the number does no work on its own; (2) A1's refill sequence was reordered, since it had water entering before powder and would have shown the product being used wrongly to anyone who owns one; the whole brief now follows the verified sequence snip → powder → pour from a jug → press the ball in → shake → roll; (3) the "subscription" metaphor is confirmed as A2's and is being dropped from Concept C, so the batch carries it once.
