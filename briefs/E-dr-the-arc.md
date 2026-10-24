@@ -318,7 +318,7 @@ ensemble carries it and Caz's hook lands at the end as the summary line.
 | | **V5 — Caz spine** | **V6 — ensemble, hook closes** |
 |---|---|---|
 | File | `renders/Rollr_DR_TheArc_V5_CazSpine_Smoothed_9x16.mp4` | `renders/Rollr_DR_TheArc_V6_Ensemble_HookClose_9x16.mp4` |
-| Runtime | 33.3s | 30.1s |
+| Runtime | 32.5s | 30.1s — superseded, see below |
 | Creators | Caz, Chloe H, Laura May | Laura May, Caz, Chloe H |
 | Caz share | 63% | **40%** |
 | Opens on | *"Can you believe that this is a deodorant?"* | *"Putting deodorant on is just one of those things that normally gets done on autopilot."* |
@@ -386,32 +386,42 @@ Chloe was 2.3× brighter than Cher and nine times warmer. Cutting Chloe → Laur
   136 — she was shot at dawn in a dim bathroom and cannot be graded into this film. V6 loses her
   *"earned its place"* price-resolve beat as a result, which is a real cost.
 
-### What could not be fixed, and what it means
+### ⚠ Correction: I said this could not be made coherent. That was wrong.
 
-**Three caption systems are still running at once.** Caz carries light serif captions low in
-frame; Laura carries bold sans karaoke captions mid-frame with word-by-word highlighting; Chloe has
-none, so hers are mine in a third face. They are **burned in and cannot be removed**, and Laura's
-run continuously — 20 samples across 40 seconds of her clip, every one captioned. There is no
-caption-free Laura material.
+The section that stood here concluded that a multi-creator cut from this library could never be
+typographically coherent, because 95.2% of tagged assets carry burned-in text and Laura's captions
+run continuously — 20 samples across 40 seconds, every one captioned.
 
-**Cutting into Laura mid-phrase leaves caption fragments.** Her karaoke captions are tied to a
-continuous read, so entering at 37.45s puts *"it like a light perfume."* and *"fresh but slightly
-warm"* on screen — not sentences. Unavoidable without her whole take.
+The measurement was right. **The conclusion was wrong**, because the sample was mine and badly
+chosen. The library also holds **24 clean creator masters** (`*_Twirl.mov`, `*_TheCirqle.mov`)
+across **14 creators** with **no burned-in captions at all**, eight of them at **3840 tall**, none
+`restricted`. Those are creator masters; `UGC - Caz` and `Laura_May_Hook 1` are edited deliverables
+with the agency's subtitles baked in. I built from two edited files and generalised from them.
 
-**V5's close does not close.** *"I'm really curious what this one will be like, but we'll have to
-wait until we use this up to try it"* is an aside, not a resolve. V5 opens on a question and ends
-on "I haven't finished trying it." V6 does not have this fault, which is the strongest argument
-for V6.
+Full survey, with the lines worth building on and the rights flags, is in
+`G-creator-survey.md`.
 
-`constraints.md` §2 said this at the outset: **95.2% of the tagged library carries burned-in text**,
-so "a motion-ad cut from existing footage is not honestly available." That was right. These two
-films prove the *argument* works and are worth watching for that — but a multi-creator cut from
-this library cannot be made typographically coherent, and no amount of transition, grade or audio
-work changes it.
+### What is actually wrong with V5 and V6
 
-**So treat V5 and V6 as animatics, not as finished ads.** V6's structure is sound and should be
-shot as one creator, one room, one type system — which is what `A-buy-well-buy-once.md` and
-`F-next-creator-briefs.md` already specify.
+**V5 — one fault, fixed.** A 0.65s dead hole at −65dB sat at the end of the pour segment: Caz stops
+speaking at **37.90** and the next phrase starts at **38.55**, and the out-point was 38.55. The
+0.25s audio crossfade covered only the last 0.125s of it. Out-point moved to **37.90**. Every other
+segment tail in both films measures ≤0.20s of trailing silence, which is natural breath.
+
+**V6 — the opener cuts a sentence in half.** Laura's line is *"But what if I told you even
+something like deodorant can feel like a small luxury in your routine."* The out-point was 10.90,
+which lands on *"…you even something like deodorant,"* — and then a different woman starts talking
+about unscrewing a roller. The sentence never completes, so the setup has no payoff. Measured: she
+does not pause anywhere between 10.4 and 13.5; the sentence lands at **13.18**.
+
+This was not caught because the review checked levels, grade and join artefacts and **never checked
+whether sentences completed**. A caption and transcript pass against every in- and out-point is now
+part of the check, not an afterthought.
+
+**V6 is not being patched.** Its foundation is two edited files with incompatible burned captions
+and an opener cut mid-clause. It should be rebuilt from the clean masters per
+`G-creator-survey.md`, with one caption system and Hannah Rooney's price line closing the frame
+that every version so far has left open.
 
 ### EDL — V6
 
