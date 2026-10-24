@@ -307,3 +307,110 @@ end card's *"Natural refillable deodorant"* against October's *"Not a natural de
 
 Three creators to check rather than four: **Caz**, **Chloe H**, **Laura May**. All `rights:
 unknown`, none restricted.
+
+---
+
+## V5 and V6 — the smoothed cut, and an ensemble version
+
+Two films replace V4. **V5** is V4 with the joins fixed and nothing else changed. **V6** is a
+different argument: the ensemble carries it and Caz's hook lands at the end as the summary line.
+
+| | **V5 — Caz spine, smoothed** | **V6 — ensemble, hook closes** |
+|---|---|---|
+| File | `renders/Rollr_DR_TheArc_V5_CazSpine_Smoothed_9x16.mp4` | `renders/Rollr_DR_TheArc_V6_Ensemble_HookClose_9x16.mp4` |
+| Runtime | 33.4s | 33.2s |
+| Creators | Caz, Chloe H, Laura May | Laura May, Caz, Chloe H, Cher Lourens |
+| Caz share | 63% | 37% |
+| Opens on | *"Can you believe that this is a deodorant?"* | *"Putting deodorant on is just one of those things that normally gets done on autopilot."* |
+| Closes on | Caz's scent reaction, then the card | **the hook, as a verdict**, then the card |
+
+### What was wrong with the joins, in numbers
+
+The complaint was that the starts and stops felt unnatural. Measuring the seven V4 segments at
+their edges said why, and it was not subjective:
+
+| Segment | mean | first 150ms | last 150ms |
+|---|---|---|---|
+| s2 pour | −19.6 | −33.8 | **−71.7** |
+| s6 close | −19.7 | −31.5 | −24.6 |
+| s7 card | **−91.0** | −91.0 | −91.0 |
+
+Three separate faults:
+
+1. **A dead gap at the end of the pour** — −71.7dB is nothing at all, so the ad stopped breathing
+   for a sixth of a second before the next shot started.
+2. **A cliff into the end card.** s6 ended mid-level at −24.6dB and the card was *absolute digital
+   silence*. That drop is the single most audible artefact in V4.
+3. **Hard butt-joins throughout**, with only 0.05s fades and no crossfade, so four different rooms'
+   worth of room tone switched instantly at every cut.
+
+Three fixes, applied to both films:
+
+- **0.25s crossfades at every join**, video and audio (`xfade` + `acrossfade`). Each segment is
+  pulled with a 0.25s *handle* past its out-point so the dissolve eats handle, not speech — the
+  nominal timings in the EDLs below are unchanged and no line is clipped.
+- **A continuous room-tone bed** under the whole film, lifted from genuine silence in the Caz clip
+  at **46.40–47.40s** (−66dB mean, real room, not generated noise), looped and raised 10dB. It
+  glues four sources together and it is what removes the −91dB cliff: the card now sits at −53 to
+  −64dB instead of nothing.
+- **Longer fades in and a padded tail**, so the audio stream runs the full length of the video
+  rather than ending 0.23s early.
+
+Verified by re-measuring every boundary after render. No boundary now drops below the bed floor.
+
+### V6 — why it is a different ad, not a re-edit
+
+V5 and V6 are not two trims of one film. V5 argues **product-first**: here is a strange object,
+here is what it does, here is how it feels. V6 argues **habit-first**: here is a thing you do on
+autopilot, here is what it could be instead — and only once that case is made does the hook arrive
+as the conclusion the viewer has already reached.
+
+That is what moving the line does. *"Can you believe that this is a deodorant?"* at 0s is a
+scroll-stopper asking a question. At 27.4s, after the mechanism, the application and two proof
+beats, it is a **verdict**, and the end card lands on it.
+
+Caz drops from 63% to 37%, which was the point, but the spine rule from V3 still holds: this is not
+a rotation. **Laura May opens and proves** (two beats, 11.3s), Caz owns the mechanism block
+unbroken, and Chloe and Cher are single inserts. Seven performance segments, five person-changes — but they are
+grouped, not alternating, so it reads as an argument with sections rather than a compilation.
+
+Cher Lourens comes back in V6 and only in V6. Her *"I leave it out on my shelf because it's earned
+its place there"* is the one line in the library that resolves a price objection without naming a
+price, and in V6 it sits exactly where that resolution is needed — immediately before the hook.
+
+### EDL — V6
+
+| Beat | Source · Drive id | In–out |
+|---|---|---|
+| problem / turn | `Laura_May_Hook 1_9x16.mp4` · `1C22DWYnAGfiOt2TFZX-oBdYTWJB0Gbk-` | 5.25–10.90 |
+| pour | `Caz.mp4` · `1tQJXXNsWaRnanR2-X4EH-cRirc-Mopre` | 32.05–38.55 |
+| shake | `Caz.mp4` | 40.50–43.60 |
+| application | `ChloeH_...Shout.mp4` · `1oKrERveIaLzHrcmkp-7_caf62AL3G74X` | 20.30–23.90 |
+| fragrance | `Laura_May_Hook 1_9x16.mp4` | 37.45–43.10 |
+| earned its place | `CherLourens_BeforeAnyoneIsAwake_Twirl.mov` · `1at7EuER1IEgibHF1ZucDrLvwkRX1RkGM` | 23.30–26.20 |
+| **hook, as the close** | `Caz.mp4` | 0.00–2.55 |
+| cta | `FounderInterviewBrief2_9x16_R2.mp4` · `1TyG9jeuXdiVjwwAYRJMP76guwNX3Mf8X` | 27.55–30.50 (end card only) |
+
+**Laura's in-point is 5.25, not 3.40.** A first pass opened at 3.40 and caught her mid-clause
+(*"…but they make more of a difference than you realise"*), with her own burned caption showing the
+fragment. 5.25 starts her on *"Putting deodorant on…"* — a whole sentence from its first word.
+
+**Cher's out-point is 26.20 and the handle runs to 26.45.** Her unsupported efficacy superlative
+starts at 29.96; the cut has to clear it, and it does, with 3.5s to spare.
+
+### Claims — V5 and V6
+
+V5 carries V4's three open items unchanged. **V6 adds one and removes none**: Cher's line is
+clean, but she is a fourth creator agreement to check.
+
+### Rights — V5 and V6
+
+V5: **Caz**, **Chloe H**, **Laura May**. V6 adds **Cher Lourens**. All four `rights: unknown`,
+none restricted. Unchanged ship-gate.
+
+### Still not fixed in either
+
+Neither film closes the price frame — there is no number in the library footage that is safe to
+run, so both resolve on ritual instead. That is the fault the batch was explicitly built not to
+inherit from Finisterre, and it is the strongest argument for shooting brief 1 in
+`F-next-creator-briefs.md` rather than cutting a seventh version from what already exists.
