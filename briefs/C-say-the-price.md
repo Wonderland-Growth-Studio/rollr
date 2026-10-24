@@ -1,6 +1,6 @@
 # Creator Script Ad — Concept C: "Say the price"
 
-**Product:** Rollr refillable roll-on deodorant · **Format:** 9:16, 17–22s, single creator, phone-shot
+**Product:** Rollr refillable roll-on deodorant · **Format:** 9:16, **31–45s by variation**, single creator, phone-shot
 **Batch:** "Buy well, buy once" (3 of 3) · **Borrowed vehicle:** Finisterre "Barents jumper" (IG `Dc_Gjy9McN5`, 2026-09-07)
 
 ---
@@ -52,16 +52,19 @@ Rollr's price-defence work is already seventeen hooks deep and all of it argues 
 
 ### UGC Script
 
+> **Runtime and pace — read this before changing a line.** Target **31–45s by variation**, 9:16. The measured natural delivery rate for this material is **~160 wpm** — relaxed, conversational, with air around the lines, which is what a candour concept needs: *"I'm not going to pretend that's cheap"* wants a beat after it, and at a brisk 230 wpm it does not get one. (The reference ad runs 230 wpm; that is a ceiling, and it is not what this concept should sound like.) Every frame timestamp below is derived from word count at 160 wpm plus breath, not authored by feel. **No single shot runs longer than ~3.5s** — see the Shot list, where each Frame is broken into beats. **The words are the fixed thing here. If this needs to be longer, add shots; do not cut lines.**
+
 Three variations. **Two builds, stated explicitly, not implied:**
 
 - **C1 and C3 are a re-hook pair.** They share Frames 3–7 — same setups, same spine, same edit — and differ only in the hook line and the hook visual (bottle set down hard vs. generic stick held up). Shoot them back to back in the same session off one spine. This is deliberate, cheap, and legitimate re-hooking.
-- **C2 is a separate build.** Its written-card device runs the whole length of the ad, not just the hook: the maths accumulates on camera, the card stays in frame through the refill macro, and the resolve pays the card off. Cutting away from the card at Frame 3 would throw away the one thing that makes C2 visually distinct from its own siblings, so it does not share the spine. Budget it as a second setup list (shot list #6 below), not as a re-hook.
+- **The "small British brand" line sits in the C1/C3 spine, which means it lands in both — deliberately.** It opens Frame 7, between the maths resolving and the last line, where it reframes £45 as a decision somebody made rather than a number somebody set. At the longer runtime it now gets its own two shots and a beat of silence in front of it, which is what the line was always worth.
+- **C2 is a separate build, and the longer runtime makes that call easier, not harder.** Its written-card device runs the full length: at ~34s the maths accumulates properly — each number landing on its own insert with its own beat — instead of three figures being rushed past in nine seconds. The card is also the single richest coverage source in the batch (overhead, profile, held to camera, and an insert per number as it is written), which is exactly what the expanded shot list needs. **The round-3 call stands and is strengthened:** C2 does not share the spine.
 
 | Name | Hook | Frame 1 | Frame 2 | Frame 3 | Frame 4 | Frame 5 | Frame 6 | Frame 7 |
 |---|---|---|---|---|---|---|---|---|
-| **C1 — "Say it first"** | "Forty-five quid. For a deodorant." | **0–2.5s.** Straight to lens, no preamble. Sets the glass bottle down **hard** on the concrete worktop — audible glass-on-stone. <br>*"Forty-five quid. For a deodorant. Go on, say it."* | **2.5–5s.** Picks it up, turns it once in the hand so the weight reads. Still to lens. <br>*"I'm not going to pretend that's cheap. It isn't."* | **5–8s.** Looks down at the bottle, then back up. First maths card lands. <br>*"But you'll put deodorant on twenty-two thousand times in your life. Nobody prices it like that."* | **8–11.5s.** Macro, hands only: sachet torn, powder tipped in, water, lid on, **click**. Held tight and fast. <br>*"I bought the bottle once. After that it's powder in a paper sachet."* | **11.5–14.5s.** Unbranded generic stick placed on the worktop beside the bottle. Taps the stick twice. <br>*"That one you buy again. And again. About [N] of them before this bottle's finished."* | **14.5–17.5s.** Back to lens, bottle in hand. Maths card resolves. <br>*"So it isn't forty-five versus three. It's forty-five once, versus three forever."* | **17.5–20s.** Sets the bottle down, hand leaves frame, bottle alone on the worktop. <br>*"I just stopped buying them."* |
-| **C2 — "The only number"** | "This is the only number anyone argues with." | **0–2.5s.** Holds a plain white card at lens height with **£45** written on it in black marker. Lowers it to reveal their face. <br>*"This is the only number anyone argues with."* | **2.5–5s.** Card down on the worktop, bottle set down next to it — audible. <br>*"Fair enough. It's a lot for a deodorant. I'd have said the same."* | **5–8.5s.** Overhead, hands only: writes **22,000** under the £45 on the card. Pen audible. <br>*"That's how many times you'll put deodorant on in your life. Twenty-two thousand."* | **8.5–11.5s.** Same overhead, **card still in frame** propped against the bottle: sachet torn, powder in, water, lid **click**, all beside the written numbers. <br>*"The forty-five is the bottle. It happens once. The rest is powder."* | **11.5–14.5s.** Overhead: writes a second line under the first — **£[P] × [N]** — then circles it. Unbranded generic stick laid on the card next to it. <br>*"This is the bit nobody writes down. You rebuy that one [N] times."* | **14.5–17.5s.** Picks the card up, holds it beside their face to lens — both lines legible. <br>*"I wrote the forty-five down once. That second line I'd be writing out for the rest of my life."* | **17.5–20.5s.** Lays the card flat beside the bottle, taps the £45 once, hand leaves frame. <br>*"One of those I've finished paying."* |
-| **C3 — "Mine worked fine"** | "Forty-five quid — and my old three-quid one worked fine." | **0–3s.** Holds the unbranded generic stick up at lens height, eyes to lens. Sets it down hard. <br>*"Forty-five quid. And before you say it — my old three-quid one worked fine. No complaints."* | **3–5.5s.** Picks up the Rollr bottle in the other hand. Both objects in one frame. <br>*"This isn't me telling you yours is rubbish. It's me telling you what I worked out."* | **5.5–8.5s.** To lens, maths card lands. <br>*"Twenty-two thousand. That's how many times you'll put deodorant on in your life."* | **8.5–11.5s.** Macro, hands only: sachet, water, lid **click**. <br>*"I buy the glass once. Then I'm buying powder."* | **11.5–14.5s.** Pushes the generic stick slowly out of frame with one finger. <br>*"You buy that one about [N] times over the same stretch. Whatever it costs, it costs it again."* | **14.5–17.5s.** Back to lens, bottle held still. <br>*"So the fair comparison isn't the shelf price. It's the shelf price, times how many times you go back."* | **17.5–21s.** Puts the bottle down on the worktop, looks at it, not the camera. <br>*"Mine's just sat there now. That's the whole thing."* |
+| **C1 — "Say it first"** · *93 words · ≈36.5s* | "Forty-five quid. For a deodorant." | **0–3.9s.** Straight to lens, no preamble. Sets the glass bottle down **hard** on the concrete worktop — audible glass-on-stone. <br>*"Forty-five quid. For a deodorant. Go on, say it."* | **3.9–7.5s.** Picks it up, turns it once in the hand so the weight reads. Still to lens. Beat after the last word. <br>*"I'm not going to pretend that's cheap. It isn't."* | **7.5–13.7s.** Looks down at the bottle, then back up. First maths card lands. <br>*"But you'll put deodorant on twenty-two thousand times in your life. Nobody prices it like that."* | **13.7–18.8s.** Macro, hands only: sachet torn, powder tipped in, water, lid on, **click**. Five separate shots, not one. <br>*"I bought the bottle once. After that it's powder in a paper sachet."* | **18.8–24.6s.** Unbranded generic stick placed on the worktop beside the bottle. Taps the stick twice. <br>*"That one you buy again. And again. About [N] of them before this bottle's finished."* | **24.6–29.4s.** Back to lens, bottle in hand. Maths card resolves. <br>*"So it isn't forty-five versus three. It's forty-five once, versus three forever."* | **29.4–36.5s.** Sets the bottle down. **A full second of nothing.** Then quieter, still to lens — then the hand leaves frame and the bottle is alone. <br>*"A small British brand decided the thing you buy forever should be bought once."* <br>*"I just stopped buying them."* |
+| **C2 — "The only number"** · *86 words · ≈34.5s* | "This is the only number anyone argues with." | **0–3.4s.** Holds a plain white card at lens height with **£45** written on it in black marker. Lowers it to reveal their face. <br>*"This is the only number anyone argues with."* | **3.4–8.9s.** Card down on the worktop, bottle set down next to it — audible. <br>*"Fair enough. It's a lot for a deodorant. I'd have said the same."* | **8.9–14.1s.** Overhead, hands only: writes **22,000** under the £45 on the card. Pen audible. Insert on the number as it lands. <br>*"That's how many times you'll put deodorant on in your life. Twenty-two thousand."* | **14.1–18.9s.** Same overhead, **card still in frame** propped against the bottle: sachet torn, powder in, water, lid **click**, all beside the written numbers. <br>*"The forty-five is the bottle. It happens once. The rest is powder."* | **18.9–24.1s.** Overhead: writes a second line under the first — **£[P] × [N]** — then circles it. Unbranded generic stick laid on the card next to it. <br>*"This is the bit nobody writes down. You rebuy that one [N] times."* | **24.1–31.9s.** Picks the card up, holds it beside their face to lens — both lines legible. Cut in an insert of each line mid-sentence. <br>*"I wrote the forty-five down once. That second line I'd be writing out for the rest of my life."* | **31.9–34.5s.** Lays the card flat beside the bottle, taps the £45 once, hand leaves frame. <br>*"One of those I've finished paying."* |
+| **C3 — "Mine worked fine"** · *114 words · ≈45.5s* | "Forty-five quid — and my old three-quid one worked fine." | **0–6.8s.** Holds the unbranded generic stick up at lens height, eyes to lens. Sets it down hard. <br>*"Forty-five quid. And before you say it — my old three-quid one worked fine. No complaints."* | **6.8–13.4s.** Picks up the Rollr bottle in the other hand. Both objects in one frame, then a cutaway to each. <br>*"This isn't me telling you yours is rubbish. It's me telling you what I worked out."* | **13.4–18.5s.** To lens, maths card lands. <br>*"Twenty-two thousand. That's how many times you'll put deodorant on in your life."* | **18.5–22.1s.** Macro, hands only: sachet, water, lid **click**. <br>*"I buy the glass once. Then I'm buying powder."* | **22.1–29.1s.** Pushes the generic stick slowly out of frame with one finger; cutaway to the empty space it left. <br>*"You buy that one about [N] times over the same stretch. Whatever it costs, it costs it again."* | **29.1–36.8s.** Back to lens, bottle held still. Longest spoken stretch in the batch — needs three shot sizes under it. <br>*"So the fair comparison isn't the shelf price. It's the shelf price, times how many times you go back."* | **36.8–45.5s.** Puts the bottle down, looks at it rather than the camera. **Beat.** Then one last look up. <br>*"A small British brand decided the thing you buy forever should be bought once."* <br>*"Mine's just sat there now. That's the whole thing."* |
 
 **Why the script survives a changed placeholder.** The argument is **one-off versus recurring**, not a saving of a specific size. If `[N]` resolves to 20 or to 120, and `[P]` to £2.50 or £5, every line still reads true — C1 F5, C2 F5 and C3 F5 are built as sentences with a slot, not as punchlines that depend on a number landing. If a placeholder cannot be confirmed at all, shoot the alternates in **Numbers used** and the ad still runs with zero unconfirmed figures on screen.
 
@@ -69,54 +72,106 @@ Three variations. **Two builds, stated explicitly, not implied:**
 
 ### Shot list
 
-One creator, one session, roughly 90 minutes. Phone on a tripod or propped; a second pair of hands helps but is not required. Natural light only — shoot on an overcast day or 1.5m from a north-facing window. Record a scratch audio pass with the phone close for sync, and a clean VO pass afterwards if the room is live.
+One creator, one session, now roughly **three hours** — the longer runtime is paid for in coverage, not in performance. Phone on a tripod or propped; a second pair of hands is now genuinely useful. Natural light only. Record a scratch audio pass for sync and a clean VO pass afterwards.
 
-| # | Setup | Shot size | In frame | Approx. duration needed |
-|---|---|---|---|---|
-| 1 | **Hook — to camera, worktop** | Medium close-up, lens at chest height, slight low angle, handheld | Creator from mid-chest up, plain wall behind, worktop edge in lower frame. Bottle enters/lands in the lower third. | 3 takes × 8s per variation (C1 bottle-down, C2 card, C3 stick) |
-| 2 | **Concession beat** | Same setup, half a step closer | Creator, bottle turning in hand, weight and facets catching the grey light | 20s |
-| 3 | **Maths card beat — to camera** | Medium close-up, same as #1 | Creator to lens; caption/graphic space kept clear in the lower third | 20s |
-| 4 | **Refill macro** | Extreme close-up, hands only, locked off overhead or at 45° | Sachet torn, powder into the open bottle, water added, lid on and **clicked**. Do this in one continuous take — no cutaway. | 3 takes × 12s, plus one at half speed |
-| 5 | **The two objects** | Close-up, overhead, locked off | Rollr bottle and the unbranded generic stick side by side on the concrete, hand entering to tap / push / place | 30s |
-| 6 | **Card build (C2 — separate build, not a re-hook)** | Close-up, overhead, locked off, one camera position for the whole sequence | White card, black marker. Hand writes £45, then 22,000 under it, then £[P] × [N], then circles the second line; the unbranded stick is laid on the card at the end. **The card stays in frame for C2's refill macro** — prop it against the bottle rather than clearing it. Pen on card audible throughout. | 3 min, shot as one continuous build plus pickups of each written line |
-| 6b | **Card to camera (C2 resolve)** | Medium close-up, as #1 | Card held beside the face, both written lines legible to a phone screen — check legibility on a phone before moving on. Then the card laid flat beside the bottle, tapped once. | 30s |
-| 7 | **Resolve** | Medium, same as #1, slightly wider | Creator sets the bottle down, hand leaves frame, bottle alone for a full beat. Hold 3s after the last word. | 20s |
-| 8 | **Safety / b-roll** | Macro | Bottle alone on the worktop, slow handheld drift; the lid click again from a second angle; the stick alone | 30s |
+**The governing rule: no shot holds longer than ~3.5 seconds.** A six-second hold on a talking head is where attention dies, and both reads of the reference put its likely drop points at its slowest stretches — which were only 2.5s. Every Frame below is broken into its beats. Shoot the beats, not the frames.
 
-**Sound.** No music bed under the first 3 seconds — the glass-on-stone and the lid click are the audio hook. Music, if any, enters at the first maths card and stays under −20dB relative to voice. Keep the lid click and the pen on card in the final mix; they are the evidence.
+**Core talking-head setups** — shoot every to-camera line in all three, so the edit can cut between them mid-sentence rather than holding one size.
+
+| # | Setup | Shot size | Notes |
+|---|---|---|---|
+| 1a | To camera, **medium close-up** | Mid-chest up, lens at chest height, slight low angle, handheld | The default. Plain wall behind, worktop edge in lower frame. |
+| 1b | To camera, **close-up** | Chin to forehead | For the concession and the thesis line. Cut to this on "It isn't" and on "versus three forever". |
+| 1c | To camera, **wide-ish medium** | Head to hip, worktop and both objects in shot | The breather size. Cut here after each number lands. |
+| 1d | **Profile / three-quarter**, no eyeline | Mid-chest up from 45° | Covers any line where the creator looks at the product instead of the lens. One per variation minimum. |
+
+**Frame-by-frame beats**
+
+| Frame | Beat | Shot | ≈dur |
+|---|---|---|---|
+| **F1** | Hook line, eyes to lens | 1a | 2.0 |
+| | The set-down — glass on stone | Insert, low and tight on the worktop, bottle entering frame | 1.0 |
+| | Reaction beat, no words | 1b | 0.9 |
+| **F2** | "I'm not going to pretend…" | 1b | 1.8 |
+| | Bottle turning in the hand, light on the facets | Insert, macro, hands only | 1.5 |
+| | "It isn't." + beat | 1a | 1.3 |
+| **F3** | "But you'll put deodorant on…" | 1a | 2.2 |
+| | Maths card lands — creator glances down | 1c | 1.6 |
+| | "…twenty-two thousand times in your life." | 1b | 1.5 |
+| | "Nobody prices it like that." | 1d (looking at the bottle) | 1.5 |
+| **F4** | Sachet torn | Extreme CU, hands only, overhead | 1.0 |
+| | Powder falling into the open bottle | Extreme CU, 45°, side-lit so the fall reads | 1.2 |
+| | Water added | Extreme CU, overhead | 1.0 |
+| | Lid on, **click** | Extreme CU, profile, lid and thread in frame | 1.0 |
+| | Bottle set upright, done | CU, 1c-adjacent | 0.9 |
+| **F5** | Generic stick placed beside the bottle | Overhead two-shot of the objects | 1.4 |
+| | "That one you buy again." | 1a | 1.3 |
+| | Finger taps the stick, twice | Insert, tight on the stick | 1.1 |
+| | "[N] of them before this bottle's finished." | 1c | 2.0 |
+| **F6** | "So it isn't forty-five versus three." | 1a | 2.2 |
+| | Maths card resolves — both rows on screen | 1c, objects in frame | 1.3 |
+| | "It's forty-five once, versus three forever." | 1b | 1.3 |
+| **F7** | Bottle set down | Insert, worktop, hands | 1.1 |
+| | **Silence.** Bottle alone, slight handheld drift | Macro, bottle only | 1.0 |
+| | "A small British brand decided…" | 1b | 2.4 |
+| | "…should be bought once." | 1d or 1c | 2.0 |
+| | Final line | 1a | 1.4 |
+| | Hand leaves frame, bottle alone, hold | Macro, bottle only | 2.0 |
+
+**C2 additional setups — the card build.** This is where C2's extra coverage comes from and why it is a separate build.
+
+| # | Setup | Shot | Notes |
+|---|---|---|---|
+| 6a | Card build, **overhead master** | Locked off, hands only | One continuous take of the whole build: £45 → 22,000 → £[P] × [N] → the circle. Pen on card audible. Run it twice. |
+| 6b | **Insert per number** | Extreme CU, each figure as the pen finishes it | Four inserts. These are the cutaways that let F3 and F5 breathe. |
+| 6c | Card in **profile** | Low, raking across the card surface so the ink and the paper grain read | Two passes, one per written line. |
+| 6d | Card **held to camera** | 1a framing, card beside the face, both lines legible — check on a phone before moving on | The F6 payoff. |
+| 6e | Card **laid down and tapped**, bottle in frame | Insert, overhead | The F7 resolve. |
+
+**Safety / b-roll (all variations).** Bottle alone on the worktop with a slow handheld drift; the lid click from a second angle; the generic stick alone; the stick being pushed out of frame (C3); hands resting on the worktop between lines. 2 minutes total — this is what fills any beat that runs long in the edit.
+
+**Sound.** No music bed under the first 4 seconds — the glass-on-stone and the lid click are the audio hook. Music, if any, enters at the first maths card and stays under −20dB relative to voice. Keep the lid click and the pen on card in the final mix; they are the evidence. **Protect the silences:** the beat after "It isn't", and the full second before the "small British brand" line, are written in and must survive the edit.
 
 ---
 
 ### On-screen text
 
-Lower third, phrase-chunked, **hard in / hard out** (no fades, no pop-scale), white, medium-weight sans with a thin dark outline, sentence case with real punctuation. Cards run on the **voice**, not on the cuts — a card may ride over a picture edit, as in the reference. Timings below are for **C1**; C2 and C3 shift by ±0.5s on the hook only.
+Lower third, phrase-chunked, **hard in / hard out** (no fades, no pop-scale), white, medium-weight sans with a thin dark outline, sentence case with real punctuation. Cards run on the **voice**, not on the cuts — a card may ride over a picture edit, as in the reference. Timings below are for **C1**; C2 and C3 are re-chunked to their own frame timings on the same principle.
 
 | # | In–out | Card (verbatim) |
 |---|---|---|
-| 1 | 0.0–1.2 | Forty-five quid. |
-| 2 | 1.2–2.5 | For a deodorant. |
-| 3 | 2.5–3.8 | I'm not going to pretend |
-| 4 | 3.8–5.0 | that's cheap. It isn't. |
-| 5 | 5.0–6.6 | But you'll put deodorant on |
-| 6 | 6.6–8.0 | 22,000 times in your life. |
-| 7 | 8.0–9.6 | I bought the bottle once. |
-| 8 | 9.6–11.5 | After that it's powder in a paper sachet. |
-| 9 | 11.5–13.0 | That one you buy again. |
-| 10 | 13.0–14.5 | And again. |
-| 11 | 14.5–16.0 | So it isn't £45 versus £3. |
-| 12 | 16.0–17.5 | It's £45 once, versus £3 forever. |
-| 13 | 17.5–20.0 | I just stopped buying them. |
+| 1 | 0.0–1.3 | Forty-five quid. |
+| 2 | 1.3–2.5 | For a deodorant. |
+| 3 | 2.5–3.9 | Go on, say it. |
+| 4 | 3.9–5.7 | I'm not going to pretend |
+| 5 | 5.7–7.5 | that's cheap. It isn't. |
+| 6 | 7.5–9.7 | But you'll put deodorant on |
+| 7 | 9.7–11.8 | 22,000 times in your life. |
+| 8 | 11.8–13.7 | Nobody prices it like that. |
+| 9 | 13.7–16.2 | I bought the bottle once. |
+| 10 | 16.2–18.8 | After that it's powder in a paper sachet. |
+| 11 | 18.8–20.6 | That one you buy again. |
+| 12 | 20.6–22.0 | And again. |
+| 13 | 22.0–24.6 | About [N] of them before this bottle's finished. |
+| 14 | 24.6–27.0 | So it isn't £45 versus £3. |
+| 15 | 27.0–29.4 | It's £45 once, versus £3 forever. |
+| 16 | 30.4–32.8 | A small British brand decided |
+| 17 | 32.8–34.9 | the thing you buy forever should be bought once. |
+| 18 | 34.9–36.5 | I just stopped buying them. |
 
-**The on-screen maths treatment.** Separate from the caption track and in a different position — **upper-middle third, right-aligned**, same typeface, 60% size, so the two text systems never collide and the maths reads as annotation rather than dialogue. It builds line by line and **persists** once written; it does not animate out until the resolve.
+*Note card 15 → 16: the one-second gap at 29.4–30.4 is the written silence. No card on screen.*
+
+**The on-screen maths treatment.** Separate from the caption track and in a different position — **upper-middle third, right-aligned**, same typeface, 60% size, so the two text systems never collide and the maths reads as annotation rather than dialogue. It builds line by line and **persists** once written; it does not animate out until the resolve. At this runtime each line now gets a beat of its own before the next arrives.
 
 | In | Line, as it appears | Notes |
 |---|---|---|
-| 6.8 | `22,000 — times you use deodorant in your life` | **The unit is mandatory.** Never the bare number. Note the unit is **human applications**, not bottle capacity — see **Numbers used**. |
-| 9.0 | `Rollr bottle — £45 — bought once` | £45 only over Rose Quartz / Blue Dumortierite / Green Aventurine. Steel cut reads `£35`. |
-| 12.0 | `Standard stick — £[P] — bought [N]×` | Both bracketed. See **Numbers used**. |
-| 14.0 | `[N] × £[P] = £[T]` | Only renders if all three confirm. Otherwise the card is cut and the line is carried by voice alone — tested and the edit holds. |
-| 16.2 | `Paid once.` / `Paid again.` (two lines, stacked, resolving the two written rows) | Resolve. No figure, so it renders whatever the placeholders do. In C2 this card is redundant with the physical card and is **cut** — the written card is the graphic. |
-| 19.5 | `rollr` wordmark, small, lower-left, 1.5s | No "SHOP NOW" burned in. CTA lives in the ad unit, per house style. |
+| 9.5 | `22,000 — times you use deodorant in your life` | **The unit is mandatory.** Never the bare number. Note the unit is **human applications**, not bottle capacity — see **Numbers used**. |
+| 14.0 | `Rollr bottle — £45 — bought once` | £45 only over Rose Quartz / Blue Dumortierite / Green Aventurine. Steel cut reads `£35`. |
+| 19.5 | `Standard stick — £[P] — bought [N]×` | Both bracketed. See **Numbers used**. |
+| 22.5 | `[N] × £[P] = £[T]` | Only renders if all three confirm. Otherwise the card is cut and the line is carried by voice alone — tested and the edit holds. |
+| 25.0 | `Paid once.` / `Paid again.` (two lines, stacked, resolving the two written rows) | Resolve. No figure, so it renders whatever the placeholders do. In C2 this card is redundant with the physical card and is **cut** — the written card is the graphic. |
+| 29.3 | *(maths layer animates out, hard)* | **The annotation layer must be gone before the silence at 29.4.** The origin line is a person talking, not a sum; nothing numeric shares the frame with it. |
+| 35.0 | `rollr` wordmark, small, lower-left, 1.5s | No "SHOP NOW" burned in. CTA lives in the ad unit, per house style. |
 
 **Legal / accuracy supers.** If `£[T]` runs, a 12pt super sits under it for its full duration: `Illustrative. Based on [stick price] and [uses per stick] — see substantiation.` A savings figure on screen without that line does not ship.
 
@@ -179,7 +234,7 @@ Exhaustive. Every figure spoken, written or implied anywhere in this brief.
 | **"27 million binned today"** | **Nowhere** | ⚠ CONFIRM source before use | Not referenced. |
 | **Sachet weight (5g vs 2×4g)** | **Nowhere** | ⛔ unresolved | Not referenced. The sachet is shown, never weighed. |
 | **Three scents** | Primary ad caption only | **LOCKED — OK.** Mandarin & Cedarwood, Vetiver & Lemon, Clary Sage & Rosemary | Ships as-is. "Four scents" is wrong and does not appear. Juniper does not appear. |
-| **Number of frames / runtime** | Production spec | n/a | C1 20.0s, C2 20.5s, C3 21.0s — all inside 17–22s. |
+| **Runtime, word count and rate** | Production spec | n/a | C1 93 words ≈36.5s · C2 86 ≈34.5s · C3 114 ≈45.5s, all derived at a measured **~160 wpm** plus written beats. The 17–22s box was inherited from the reference ad and has been dropped: good DR runs long, and Rollr's own films run 44–67s. **No shot holds longer than ~3.5s** — length is paid for in coverage, not in held frames. To make one shorter, cut shots; do not cut lines. |
 
 ---
 
@@ -210,6 +265,8 @@ This ad is a cost-comparison ad, so it sits squarely in the family that already 
 
 **No fabricated people — clear.** Every first-person line is the creator's own experience of their own purchase. No testimonial is quoted, no customer is named, no review is reproduced, no platform UI is mimicked.
 
+**The "small British brand" line — no claim, no substantiation needed.** The adapted line is *"A small British brand decided the thing you buy forever should be bought once."* Taken from `Ad Creative/09_September/DR - Aesthetics/Design/` (Hook 1/2/3, 4:5 and 9:16), whose verbatim original is *"A small British brand decided the most used object in your bathroom should be the most beautiful."* We keep the construction — origin, deliberateness, modesty — and land the second half on this concept's argument instead of beauty, since aesthetic/design is Rollr's most over-used ground (38 of 187 hooks, eight briefs on "too beautiful to hide"). It asserts nothing measurable: no efficacy, no saving, no origin-of-manufacture claim, no superlative. **Nothing else from that film is used.** Its surrounding copy is claims-dense — one-of-a-kind gemstone, designed to keep forever, stops odour in its tracks, and a Times masthead quote — and all four are excluded. Separately: the press headline "Rollr Reimagines Deodorant As We Know It…" is third-party copy sitting in the permissions bucket with the mastheads, and is **not used anywhere in this brief**.
+
 **Gemstone language — clear, and guarded.** No "semi-precious", "one-of-a-kind" or "carved" appears, so the £45/£35 Steel swap is safe in both directions. The shoot must still use a gemstone bottle for the £45 cut.
 
 **`superlative` — clear.** "The last deodorant you'll ever buy" is deliberately **not** used, despite being the brand's signature and an obvious fit, for two reasons: it is a superlative needing a durability substantiation memo, and it has run across 17 briefs. C1 F7's "I just stopped buying them" is the same idea in the creator's own mouth, as a report rather than a promise.
@@ -225,22 +282,23 @@ Self-graded against the 12-criterion rubric in `panel.md` §5 (the rubric's prea
 | # | Criterion | Score | Reasoning |
 |---|---|---|---|
 | **1** | **GATE — Evidentiary rationale** | **2** | One sentence: *`copy.md` §6 records that the corpus has no hook at all for "people who already use a natural deodorant and are happy" — every switching hook assumes failure — while price-defence is 17 hooks deep and all of it argues worth rather than changing the unit of comparison.* That is a persona×awareness cell with no coverage plus an over-served objection, not "a competitor is running it". |
-| **2** | **GATE — Brand-swap test** | **2** | No competitor could upload frame 1 unchanged: it is a £45 price said out loud over a glass bottle landing on stone, and by 9 seconds the refill click is the proof. The argument is only available to a brand whose refill is a different physical object from its bottle. |
+| **2** | **GATE — Brand-swap test** | **2** | No competitor could upload frame 1 unchanged: it is a £45 price said out loud over a glass bottle landing on stone, and by 9 seconds the refill click is the proof. The argument is only available to a brand whose refill is a different physical object from its bottle. The Frame 7 origin line puts a specific advertiser behind the price, which also closes the "who is even asking me for £45" question the hook opens. |
 | **3** | So-what / first-second relevance | **2** | **Who:** someone who has already replaced other throwaway things in their bathroom and will argue about whether this one is worth it. **What tells them in second one:** a person looking straight at them saying "forty-five quid" — the exact objection they were forming, spoken first. |
 | **4** | Angle as a belief-reframe | **2** | Written: *"You think you're comparing £45 to £3. You're actually comparing £45 once to £3 forever."* About Rollr's category, not Finisterre's, and not a format name. |
 | **5** | **GATE — What was borrowed, named** | **2** | Named in **Visual Reference**: a **vehicle/format borrow** from Finisterre's Barents ad, source given with shortcode and date, and stated as **indirect/adjacent, not a competitor** (knitwear vs deodorant; no category, intent or auction overlap). Not a surface-treatment borrow. The two deliberate departures are named too. |
 | **6** | Hook specified as a package | **2** | All four, per variation. **Text overlay:** caption cards 1–2. **Sound:** no music; glass-on-stone on the set-down, then the lid click at 9s. **Visual:** eyes to lens, bottle landing in the lower third, grey daylight on concrete. **Vibe:** flat, dry, conceding. Opening frame described for all three variations. |
-| **7** | Pre-qualification + three ingredients | **2** | First six words of C1: *"Forty-five quid. For a deodorant."* — the price position stated, which is exactly the §6.3 instruction, and it self-selects in under two seconds. Carries **relevance** (the objection is the viewer's own) and **emotion** (the mild indignation of being told a price before being softened up). Curiosity is the weakest of the three here and is doing less work than in Concepts A and B. |
-| **8** | Customer vocabulary, sourced not invented | **1** | **The weakest row, and I will not inflate it.** The register is drawn from Rollr's own documented house reflex — self-deprecate before the customer can, e.g. *"yes it's £45. yes it's a deodorant"* (`Sep MDI_T1_M24`) and *"It's Not Cheap. It's true. This is a lot to spend on a deodorant."* (`May Brief 10`) — and the counter-argument the ad answers is quoted verbatim from the reference ad's own comment section (*"I have a jumper I bought from a fast fashion brand… still going strong 13 years later"*). But **"my old three-quid one worked fine" is written, not sourced.** `copy.md` §7 records that Rollr's actual copy bank sits in `Content/0. Docs`, one of the ten folders the index could not list, so no Rollr review or support ticket was available to mine for this phrasing. **Action before shoot:** pull ten 1–3 star reviews of standard supermarket sticks and five Rollr support tickets mentioning price, and replace C3's hook with a real sentence if a better one exists. |
-| **9** | **GATE — Visual difference, proven by test** | **2** | **What has to be different vs the last five:** the last five are statics, platform-native UI mocks and multi-creator mash-ups; this is a single creator, hard-lit on stone, eyes to lens from frame 1, with an annotation layer that builds. **Mute test:** with sound off and hooks stripped — A is a refill macro in a bathroom, B is a cupboard of old sticks, C is a face and two objects on concrete with numbers being written. They do not look alike. **Scroll-past test:** the £45 card and a face mid-sentence read at 150px; the maths layer does not, which is fine because it is annotation, not the hook. **Within-concept:** C1/C3 are an explicit re-hook pair off one spine; C2 is built separately so its written card runs the full length rather than being cut away from at Frame 3. Stated in the script section, not left implied. |
-| **10** | Batch-level diversity (scored once, across all three) | **2** | The three differ on **format** (macro-led / reveal-led / direct-to-camera), **environment** (bathroom / cupboard / urban worktop) and **angle** (mechanism / accumulated waste / cost structure). Three of the five axes, against a requirement of two. **One metaphor collision found and removed in revision:** C2's resolve originally landed "a subscription you never signed up for", which is the same idea as Concept A's A2 hook. A2 owns it — it is their opening device and load-bearing there, and it was only a mid-script beat here. C2 now resolves on its own written card instead, and the "Paid once. / Paid again." graphic replaces the "One purchase. One subscription." card. |
+| **7** | Pre-qualification + three ingredients | **2** | First six words of C1: *"Forty-five quid. For a deodorant."* — the price position stated, which is exactly the §6.3 instruction, and it self-selects in under two seconds. Carries **relevance** (the objection is the viewer's own) and **emotion** (the mild indignation of being told a price before being softened up). Curiosity is the weakest of the three here and is doing less work than in Concepts A and B. The Frame 7 origin line is the one place the ad answers *who is asking*, which is the question underneath the price and the thing an anonymous bottle on a worktop cannot answer. |
+| **8** | Customer vocabulary, sourced not invented | **1** | **The weakest row, and I will not inflate it.** The register is drawn from Rollr's own documented house reflex — self-deprecate before the customer can, e.g. *"yes it's £45. yes it's a deodorant"* (`Sep MDI_T1_M24`) and *"It's Not Cheap. It's true. This is a lot to spend on a deodorant."* (`May Brief 10`) — and the counter-argument the ad answers is quoted verbatim from the reference ad's own comment section (*"I have a jumper I bought from a fast fashion brand… still going strong 13 years later"*). But **"my old three-quid one worked fine" is written, not sourced.** `copy.md` §7 records that Rollr's actual copy bank sits in `Content/0. Docs`, one of the ten folders the index could not list, so no Rollr review or support ticket was available to mine for this phrasing. **Action before shoot:** pull ten 1–3 star reviews of standard supermarket sticks and five Rollr support tickets mentioning price, and replace C3's hook with a real sentence if a better one exists. **Improved but not fixed in round 3:** the Frame 7 origin line is now genuinely sourced Rollr copy with its asset path on file, so one of the script's four load-bearing lines traces to something real. The hook still does not, and the hook is the one that matters most. Stays at 1. |
+| **9** | **GATE — Visual difference, proven by test** | **2** | **What has to be different vs the last five:** the last five are statics, platform-native UI mocks and multi-creator mash-ups; this is a single creator, hard-lit on stone, eyes to lens from frame 1, with an annotation layer that builds. **Mute test:** with sound off and hooks stripped — A is a refill macro in a bathroom, B is a cupboard of old sticks, C is a face and two objects on concrete with numbers being written. They do not look alike. **Scroll-past test:** the £45 card and a face mid-sentence read at 150px; the maths layer does not, which is fine because it is annotation, not the hook. **Retention:** at 36–45s the risk moves from the hook to the middle, so the shot list is built in ~1–3.5s beats with four talking-head sizes to cut between, rather than seven frames held for six seconds each. **Within-concept:** C1/C3 are an explicit re-hook pair off one spine; C2 is built separately so its written card runs the full length rather than being cut away from at Frame 3. Stated in the script section, not left implied. |
+| **10** | Batch-level diversity (scored once, across all three) | **2** | The three differ on **format** (macro-led / reveal-led / direct-to-camera), **environment** (bathroom / cupboard / urban worktop) and **angle** (mechanism / accumulated waste / cost structure). Three of the five axes, against a requirement of two. **One metaphor collision found and removed in revision:** C2's resolve originally landed "a subscription you never signed up for", which is the same idea as Concept A's A2 hook. A2 owns it — it is their opening device and load-bearing there, and it was only a mid-script beat here. C2 now resolves on its own written card instead, and the "Paid once. / Paid again." graphic replaces the "One purchase. One subscription." card. The "small British brand" line added in round 3 is likewise given one home (the C1/C3 spine) rather than all three, and is adapted off the over-used aesthetic landing onto this concept's own argument. |
 | **11** | One job, one bet | **2** | **One job:** education — change the unit of comparison. **One avatar:** the person who thinks their £3 stick is fine and is right about that. **The 20% bet, stated:** *that conceding the objection out loud in the first three seconds outperforms defending the price, in an account where seventeen hooks have defended it.* The other 80% — price-forward copy, refill demo, generic-stick comparison, creator talking head — is all validated material. |
 | **12** | Pre-ship human checkpoint | **1** | The checkpoint is specified and the substantiation list is written out (**Claims check**, three items), but **no human has signed it yet** and the three gating figures — the 22,000 source, `£[P]`, `[N]` — are open by design. This row cannot honestly score 2 until someone initials it. It is the one row that is a process state, not a writing problem. |
 
 **Total: 22/24, no gate failures.** Ship threshold is 16/22 with no gate failures; on the 24-point reading that is roughly 17.5, so this clears comfortably.
 
 **Where it is genuinely weak, restated without hedging:**
-1. **Criterion 8 (sourced vocabulary, 1/2).** The central concession line is invented. It is *plausible* British speech and it is the right argument, but "plausible" is what criterion 8 exists to catch. Mine real reviews before the shoot.
+1. **Criterion 8 (sourced vocabulary, 1/2).** The central concession line is invented. It is *plausible* British speech and it is the right argument, but "plausible" is what criterion 8 exists to catch. Mine real reviews before the shoot. The round-3 origin line helps — it is real Rollr copy, adapted — but it sits at second 16, not second 0.
 2. **Criterion 12 (1/2).** Three unconfirmed figures are load-bearing for the strongest version of the ad. The alternates are written and the ad runs without them, but the version that runs without them is a weaker ad — it asserts the structure of the spend without ever quantifying the other side, which is the exact fault `constraints.md` §1 was written to prevent. **Being honest: if none of the three placeholders resolve, this ad only half-closes the frame it opens.** It closes "why this one lasts" (the refill is shown, the bottle is bought once) but leaves "what the alternative costs over the same period" at "you buy it again, and again" — directionally true, unquantified.
-3. **C2 now costs more to make.** Keeping the card through the spine is the right creative call and it is what makes C2 survive the mute test against its own siblings, but it means the batch is three ads across two builds rather than three re-hooks off one. Roughly an extra 30–40 minutes in the session and a second edit. Worth it; flagged so nobody discovers it on the day.
-4. **Curiosity is thin (inside criterion 7).** The ad tells you everything in the first three seconds. That is the concept's whole proposition, and it is the right trade for a confrontational cut, but it means this ad has the least retention pull of the three and will likely show the steepest drop between second 3 and second 8. Judge it on spend carried, not hold rate — per the rubric's deliberate non-criterion.
+3. **The session is now about three hours, not ninety minutes.** The runtime grew and the coverage grew with it — four talking-head sizes, five separate refill inserts, and in C2 a full card-build list. That is the right trade, but it is a real production cost and it lands on the creator, not the editor.
+4. **C2 now costs more to make.** Keeping the card through the spine is the right creative call and it is what makes C2 survive the mute test against its own siblings, but it means the batch is three ads across two builds rather than three re-hooks off one. Roughly an extra 30–40 minutes in the session and a second edit. Worth it; flagged so nobody discovers it on the day.
+5. **Curiosity is thin (inside criterion 7).** The ad tells you everything in the first three seconds. That is the concept's whole proposition, and it is the right trade for a confrontational cut, but it means this ad has the least retention pull of the three and will likely show the steepest drop between second 3 and second 8. Judge it on spend carried, not hold rate — per the rubric's deliberate non-criterion.
