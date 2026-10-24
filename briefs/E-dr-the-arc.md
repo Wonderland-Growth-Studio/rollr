@@ -1,8 +1,8 @@
 # 🎥 DR Ad — "The Arc", V1 and V2, cut from existing footage
 
 **Brand:** Rollr · **Date:** 2026-10-24 · **Spec:** 9:16, 1080×1920, 30fps, **33.4s**, four creators, real voice throughout
-**Renders:** `Rollr_DR_TheArc_V3_FourCreators_9x16.mp4` ← **current**
-V1 and V2 are **withdrawn** — see "Why the founder came out" below.
+**Render:** `Rollr_DR_TheArc_V4_CazSpine_9x16.mp4` ← **current**
+V1 and V2 **withdrawn** (founder). V3 **superseded** (incoherent). See the two notes at the end.
 
 > **What this document is.** A record of two ads made in one session from library footage. The EDL,
 > the claims decisions and the doctrine citations are durable. The order of work is not. See
@@ -234,3 +234,76 @@ Four creators now need checking: **Caz**, **Laura May**, **Chloe H**, **Cher Lou
 clips are `rights: unknown`, none restricted, none in `DO NOT UPLOAD`. Same structural gap as
 before: creator clearance cannot fire automatically because `provenance.py` matches on `@handle` and
 Rollr's files carry none.
+
+
+---
+
+## V4 — Caz as the spine. This is the one to run.
+
+**33.3s. Three creators, not four — and one of them carries 63% of the screen.**
+
+| t | Beat | Who | |
+|---|---|---|---|
+| 0.0–5.8 | **HOOK + WHAT IT IS** | **Caz** | *"Can you believe that this is a deodorant? This is Rollr, a natural and refillable deodorant."* |
+| 5.8–15.4 | **MECHANISM** | **Caz** | unscrew → pour the sachet → *"water is added and give it a shake!"* |
+| 15.4–19.0 | **CUTAWAY 1 — application** | Chloe H | applies it · *"soft and gentle on my skin, and wow, I smell good"* |
+| 19.0–24.7 | **CUTAWAY 2 — fragrance** | Laura May | *"…why people always wear it like a light perfume"*, over her own wrist |
+| 24.7–30.3 | **CLOSE** | **Caz** | *"I quite like the scent. I'm really curious what this one will be like, but we'll have to wait until we use this up to try it."* |
+| 30.3–33.3 | **CTA** | — | Rollr / **SHOP NOW** |
+
+Caz opens and closes. The two cutaways sit together as one block in the middle rather than being
+rotated through. Her closing line also carries the refill cycle implicitly — *"we'll have to wait
+until we use this up"* — without making a claim.
+
+### Why V3 was wrong
+
+V3 used four creators in roughly equal share: **six person-changes in 35 seconds**, four rooms, four
+grades, four caption styles. It read as a compilation, or an editing error, rather than an ad.
+
+The doctrine for this was already in `combining.md` and I did not follow it:
+
+- Based on **Curtis Howland's** published material, his working mashup was *"**one** strong
+  90-second ad stitched together with several other creator clips"* — a **spine with cutaways**, not
+  a rotation.
+- Based on **Lorenzo's** material, the single genuine anti-Frankenstein warning in the corpus is
+  about **hook↔body continuity**.
+- And *"a recombination is not diversity"* — four faces does not make a diverse ad, it makes a
+  confusing one.
+
+**The rule to carry forward: one creator owns the ad; everyone else is an insert.** Pick the spine
+by who has the most usable continuous footage, not by who has the best single line. Caz wins on
+that test — 69 seconds, one setup, one outfit, covering hook, product, mechanism and reaction.
+
+Dropping to three creators also removed a caption style. Caz and Laura carry their own burned
+subtitles; only Chloe needed captions adding.
+
+### EDL — V4
+
+| Beat | Source · Drive id | In–out |
+|---|---|---|
+| open | `Caz.mp4` · `1tQJXXNsWaRnanR2-X4EH-cRirc-Mopre` | 0.00–5.77 |
+| pour | `Caz.mp4` | 32.05–38.55 |
+| shake | `Caz.mp4` | 40.50–43.60 |
+| cutaway 1 | `ChloeH_...Shout.mp4` · `1oKrERveIaLzHrcmkp-7_caf62AL3G74X` | 20.30–23.90 |
+| cutaway 2 | `Laura_May_Hook 1_9x16.mp4` · `1C22DWYnAGfiOt2TFZX-oBdYTWJB0Gbk-` | 37.45–43.10 |
+| close | `Caz.mp4` | 57.66–63.21 |
+| cta | `FounderInterviewBrief2_9x16_R2.mp4` · `1TyG9jeuXdiVjwwAYRJMP76guwNX3Mf8X` | 27.55–30.50 (end card only) |
+
+Cut points found by silence detection at −33dB, plus a −38dB pass at 0.12s to find the micro-pause
+at **57.51s** that makes the closing line separable. Caz's planet-friendly caption still governs the
+mechanism in-point: **32.05, never 31.60.**
+
+Cher Lourens is **out** of V4 — her *"earned its place"* line is good, but a fourth face at the
+resolve was part of what made V3 incoherent.
+
+### Claims — V4
+
+Unchanged and clean. Three items still needing sign-off, all carried over: *"soft and gentle on my
+skin"* (first-person, brushes `health.irritation`), Laura's *"lasts so well throughout the day"*
+(**duration claim with no wear test on file** — see `F-next-creator-briefs.md`, brief 1), and the
+end card's *"Natural refillable deodorant"* against October's *"Not a natural deodorant."*
+
+### Rights — V4
+
+Three creators to check rather than four: **Caz**, **Chloe H**, **Laura May**. All `rights:
+unknown`, none restricted.
