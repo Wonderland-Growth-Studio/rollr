@@ -9,7 +9,32 @@ with captions already burned in**, and from that badly-chosen sample I concluded
 multi-creator cut was impossible from this library. **That conclusion was wrong**, and it is
 corrected below.
 
-## 24 clean creator masters, 14 creators, none restricted
+## ⚠ Correction: it is 17 clean masters, not 24
+
+**This section originally said 24.** It was wrong, and wrong the same way the earlier
+"cannot be made coherent" verdict was wrong: I inferred the pool from the `_Twirl.mov` /
+`_TheCirqle.mov` filename pattern and verified only three of them by eye.
+
+**Seven of the files listed below sit in `ASSETS/UGC/With Subtitles` and have captions burned into
+every frame** — two verified by eye on contact sheets, the other five recorded in the tag index with
+complete burned-caption word lists: `ShaharaPrajapat_IChoseThisForMyself`,
+`AmyShiddell_TooManyUglyThings`, `AmyShiddell_HowMuchOfYourDay`,
+`AmyShiddell_NobodysComingToTellYou`, `ShaharaPrajapat_IfYouCouldChangeOneThing`,
+`ShaharaPrajapat_TheInsideScoop`, `SkyeRound_Everyday Permission`.
+
+**Consequence: Shahara's two closing lines are audio-only assets.** They cannot be used as picture.
+The same script exists caption-free from **Patricia Fale** (30.4–33.6 and 34.2–37.4, 4K) and
+**Emily Mary McC** (33.3–37.5 and 37.8–43.0, 4K), so the beat survives — but through different
+creators.
+
+**The £45 line is Laura Kosinskaite, not "Laura May, September", and its master is already clean:**
+`LauraKosinskaite_SummerTravel_H2_Direct.mov` · `1oVOMTtx-yQQfdyeD_fCEUN7Ki2stdFyq` · 1080×1920 ·
+no burned captions. **In-point is hard at 28.6** — the sentence immediately before it is an efficacy
+claim that must not be carried.
+
+Full verified survey, beat by beat against the three final storylines: `I-clip-survey.md`.
+
+## The clean-master pool (as originally written — read with the correction above)
 
 The library holds `*_Twirl.mov` and `*_TheCirqle.mov` files which are **creator masters with no
 burned-in captions at all** — as distinct from the edited deliverables (`UGC - Caz`,
