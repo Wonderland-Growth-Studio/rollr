@@ -3,6 +3,9 @@
 Three Creator Script Ad concepts for Rollr, built from a hook structure borrowed from a
 **Finisterre** Instagram ad that Milo flagged in `#rollr-wonderland` on 2026-10-24.
 
+Four deliverables: **three creator briefs** for net-new footage, and **one finished motion ad**
+cut from footage Rollr already owns (`D-motion-ad-from-library.md`, rendered to `renders/`).
+
 | | **A — Buy well, buy once** | **B — The cupboard** | **C — Say the price** |
 |---|---|---|---|
 | File | `A-buy-well-buy-once.md` | `B-the-cupboard.md` | `C-say-the-price.md` |
@@ -39,6 +42,20 @@ The extra room paid for itself: B2 keeps both of its proof beats, C2's written-c
 beat per number instead of being rushed, and A1 carries the origin line without anything else
 coming out. The honest cost is production time — roughly 90 minutes per variation becomes two to
 three hours.
+
+## D — the one that already exists
+
+`D-motion-ad-from-library.md` is Concept A rebuilt from library footage and **rendered**: 27s,
+9:16, at `renders/Rollr_MotionAd_A_BuyWellBuyOnce_9x16.mp4`. It carries no number at all and still
+closes the price frame, because the argument is one purchase versus a repeating one.
+
+It exists because "98.1% rights-unknown" means *nobody has answered*, not that the answer is no.
+Ten unrestricted clips with no burned-in text, re-captioned, re-ordered to the verified refill
+mechanic. Most of it came from one previously-uncut clip, `CristinaRomano_ASMR_Twirl.mov`.
+
+It is **ready to view and decide on, not ready to spend behind** — three creator agreements need
+checking first, and it has no spoken voice, so it cannot carry the first-person testimony A, B and
+C are built on.
 
 ## The reference, and what was taken from it
 
