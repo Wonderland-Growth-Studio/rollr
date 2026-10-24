@@ -1,7 +1,8 @@
 # 🎥 DR Ad — "The Arc", V1 and V2, cut from existing footage
 
 **Brand:** Rollr · **Date:** 2026-10-24 · **Spec:** 9:16, 1080×1920, 30fps, **33.4s**, four creators, real voice throughout
-**Renders:** `Rollr_DR_TheArc_V1_HookFront_9x16.mp4` · `Rollr_DR_TheArc_V2_HookBack_9x16.mp4`
+**Renders:** `Rollr_DR_TheArc_V3_FourCreators_9x16.mp4` ← **current**
+V1 and V2 are **withdrawn** — see "Why the founder came out" below.
 
 > **What this document is.** A record of two ads made in one session from library footage. The EDL,
 > the claims decisions and the doctrine citations are durable. The order of work is not. See
@@ -152,3 +153,84 @@ Every spoken line above was invisible to the index until today. Caz, the founder
 hook, the narrated refill and the price-candour monologue were all found by transcribing 145 files
 and then grepping the result. Before that, the only way to know Caz says *"Can you believe that this
 is a deodorant?"* was for a person to remember it.
+
+
+---
+
+## V3 — four creators, no founder. This is the one to run.
+
+**34.9s.** Caz · Laura May · Chloe H · Cher Lourens. Same arc, positive throughout.
+
+| t | Beat | Who | Line |
+|---|---|---|---|
+| 0.0–2.6 | **HOOK** | Caz | *"Can you believe that this is a deodorant?"* |
+| 2.6–10.1 | **PROBLEM** | Laura May | *"Putting deodorant on is just one of those things that normally gets done on autopilot — but what if I told you even something like deodorant can feel like a small luxury in your routine?"* |
+| 10.1–19.7 | **SOLUTION** | Caz | *"So all you do is unscrew the roller bit here, pour the sachet into the bottle like so… water is added and give it a shake!"* |
+| 19.7–23.3 | **PROOF 1 — application** | Chloe H | applies it, *"It feels really soft and gentle on my skin, and wow, I smell good."* |
+| 23.3–29.0 | **PROOF 2 — fragrance** | Laura May | *"…it lasts so well throughout the day that I can genuinely see why people always wear it like a light perfume"* — over her own wrist application |
+| 29.0–31.9 | **RESOLVE** | Cher Lourens | *"I leave it out on my shelf because it's earned its place."* |
+| 31.9–34.9 | **CTA** | — | Rollr / Natural refillable deodorant / **SHOP NOW** |
+
+Still two proof beats, not three: Cher is the **resolve** (ends on habit), which is the arc's shape,
+not a third proof.
+
+### Why the founder came out
+
+V1 and V2 used the founder's price monologue as the problem beat. **That cut was brand-damaging and
+is withdrawn.**
+
+The founder says *"why would anyone spend forty-five quid on a deodorant? That's just stupid, it's
+unnecessary."* His rebuttal — *"but we're not really selling deodorant; what we're selling is the
+idea that you can have an elevated experience every day"* — runs from **10.3s to 21.2s** in his
+source, **and the cut ended at 9.55s.** So the ad had the founder calling his own product stupid and
+unnecessary, and nothing after it answered him. The creator beats that followed were about softness
+and scent; they do not rebut a price objection.
+
+Two separate faults, worth naming apart:
+1. **The edit truncated an argument mid-way**, keeping the concession and dropping the answer.
+2. **Using the founder at all invites scrutiny** a creator does not. A creator saying a product is
+   lovely is an opinion; a founder characterising his own pricing is a statement about the business.
+
+V3 removes him. The only thing retained from his film is the **end card**, which is a plum graphic
+with the wordmark and a SHOP NOW button — no founder in frame, no founder audio. It is a shipped
+brand asset being reused as a brand asset.
+
+### EDL — V3
+
+| Beat | Source · Drive id | In–out |
+|---|---|---|
+| hook | `Caz.mp4` · `1tQJXXNsWaRnanR2-X4EH-cRirc-Mopre` | 0.00–2.55 |
+| problem | `Laura_May_Hook 1_9x16.mp4` · `1C22DWYnAGfiOt2TFZX-oBdYTWJB0Gbk-` | 3.40–10.90 |
+| solution A | `Caz.mp4` | **32.05**–38.55 |
+| solution B | `Caz.mp4` | 40.50–43.60 |
+| proof 1 | `ChloeH_...Shout.mp4` · `1oKrERveIaLzHrcmkp-7_caf62AL3G74X` | 20.30–23.90 |
+| proof 2 | `Laura_May_Hook 1_9x16.mp4` | 37.45–43.10 |
+| resolve | `CherLourens_BeforeAnyoneIsAwake_Twirl.mov` · `1at7EuER1IEgibHF1ZucDrLvwkRX1RkGM` | 23.30–26.20 |
+| cta | `FounderInterviewBrief2_9x16_R2.mp4` · `1TyG9jeuXdiVjwwAYRJMP76guwNX3Mf8X` | 27.55–30.50 (end card only) |
+
+**Why solution A starts at 32.05 and not 31.60.** Caz's burned caption *"Quite suiting for a planet
+friendly product!"* — a `watch.sustainability` claim — persists on screen until **31.8s** and clears
+at **32.0s**. The first build cut at 31.60 and carried that caption into the ad for four frames.
+Found by frame-stepping the join at 5fps, not by reading the transcript. **Burned-in captions
+outlast the audio that prompted them; cut points have to be verified in picture, not in transcript.**
+
+### Claims — V3
+
+Clean. No founder price commentary, no gemstone-properties line, no planet-friendly caption, no
+superlative, no competitor disparagement. Every line is a creator's own positive first-person
+experience.
+
+Unchanged from V1/V2, still needing sign-off: *"soft and gentle on my skin"* (brushes
+`health.irritation`, first-person so weaker exposure) and the end card's **"Natural refillable
+deodorant"** against October's *"Not a natural deodorant"* — Rollr's own contradiction to resolve.
+
+Laura May's *"it lasts so well throughout the day"* is a **duration claim**. First-person creator
+experience, but the copy audit found duration asserted three times in seven months with **no wear
+test on file**. It is the single most useful thing to go and get — see `F-next-creator-briefs.md`.
+
+### Rights — V3
+
+Four creators now need checking: **Caz**, **Laura May**, **Chloe H**, **Cher Lourens**. All four
+clips are `rights: unknown`, none restricted, none in `DO NOT UPLOAD`. Same structural gap as
+before: creator clearance cannot fire automatically because `provenance.py` matches on `@handle` and
+Rollr's files carry none.
