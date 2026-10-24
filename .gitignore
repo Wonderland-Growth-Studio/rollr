@@ -1,0 +1,10 @@
+# Rendered video deliverables.
+#
+# These are 15-17MB binaries that are rewritten in full on every recut, so
+# versioning them bloats the repo permanently (.git was already 47MB after
+# three versions) and makes each push a large binary publication.
+#
+# The briefs in briefs/ are the versioned deliverable and carry the full EDL,
+# so any render can be rebuilt from source. Finished cuts are delivered to the
+# team directly rather than committed.
+renders/
