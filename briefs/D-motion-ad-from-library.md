@@ -1,7 +1,7 @@
 # 🎥 Motion Ad — "Buy well, buy once", cut from existing footage
 
 **Brand:** Rollr · **Batch:** "buy well, buy once" · **Date:** 2026-10-24
-**Spec:** 9:16, 1080×1920, 30fps, **27.0s** · **Built and rendered — this is a finished assembly, not a proposal**
+**Spec:** 9:16, 1080×1920, 30fps, **24.8s** · **Built and rendered — this is a finished assembly, not a proposal**
 **Output:** `renders/Rollr_MotionAd_A_BuyWellBuyOnce_9x16.mp4`
 
 This is Concept A (`A-buy-well-buy-once.md`) rebuilt from footage Rollr already owns, so the
@@ -36,22 +36,30 @@ product-mechanism film that was already in the library and had never been cut in
 Every source is **unrestricted** (no `Organic Only Usage`, no `AdUsageExpired`) and carries **no
 burned-in text**, which is what makes re-captioning possible at all.
 
+The film runs **problem → turn → mechanism → proof → resolve**. Every caption is matched to what is
+actually on screen while it plays; see the revision note at the end for why that needs saying.
+
 | # | t (out) | Source file | Drive id | In–out | What's on screen | Audio |
 |---|---|---|---|---|---|---|
-| 1 | 0.0–3.6 | `ASSETS/UGC/CristinaRomano_ASMR_Twirl.mov` | `1NVbypzoyulZzpfy8WJSfQ2KKyGY4HznH` | 14.6–18.2 | Pink sachet torn, powder tipped into the open glass bottle. Sunlit, hands only | source (ASMR) |
-| 2 | 3.6–6.0 | same | same | 12.0–14.4 | Water poured from a glass jug into the bottle | source |
-| 3 | 6.0–8.6 | `ASSETS/UGC/YazKemp_27Million_Direct.mov` | `1TJ6Jxnx8R...l5VTg` | 0.8–3.4 | Creator holding up **two conventional plastic roll-ons** — the failed alternative | muted |
-| 4 | 8.6–11.2 | `CristinaRomano_ASMR_Twirl.mov` | as above | 17.6–20.2 | Ball pressed back into the collar, bottle closed | source |
-| 5 | 11.2–13.6 | same | same | 4.2–6.6 | Ball macro, bottle turning in hard sun | source |
-| 6 | 13.6–15.4 | `ASSETS/UGC/ChloeH_CanYouBelieveThisIsADeodorant_Shout.mp4` | `1oKrERveIaLzHrcmkp-7_caf62AL3G74X` | 7.0–8.8 | Mirror macro, **pale pink stone ball** (Rose Quartz) | muted |
-| 7 | 15.4–17.4 | `CristinaRomano_ASMR_Twirl.mov` | as above | 0.3–2.3 | Faceted bottle turning in sunlight, cap on | source |
-| 8 | 17.4–20.4 | same | same | 8.0–11.0 | Refill sachets held up one by one against the bottle | source |
-| 9 | 20.4–23.4 | `ChloeH_...Shout.mp4` | as above | 20.3–23.3 | Application to underarm | muted |
-| 10 | 23.4–27.0 | same | same | 26.3–29.9 | Bottle set down on a vanity among candles and perfume | muted |
+| **PROBLEM** |
+| 1 | 0.0–4.2 | `ASSETS/UGC/YazKemp_27Million_Direct.mov` | `1TJ6Jxnx8RjlWNNl5k6ULCFLoSYPl5VTg` | 0.8–5.0 | Creator holding up **two conventional plastic roll-ons** — the thing you keep rebuying | muted |
+| **TURN** |
+| 2 | 4.2–7.2 | `ASSETS/UGC/CristinaRomano_ASMR_Twirl.mov` | `1NVbypzoyulZzpfy8WJSfQ2KKyGY4HznH` | 0.3–3.3 | The Rollr bottle turning in hard sunlight, cap on then lifted | source (ASMR) |
+| **MECHANISM** |
+| 3 | 7.2–9.2 | `YazKemp_27Million_Direct.mov` | as above | 15.0–17.0 | One continuous run: **sachet tipped in, then water poured from a jug** | muted |
+| 4 | 9.2–12.0 | `CristinaRomano_ASMR_Twirl.mov` | as above | 17.6–20.4 | Ball pressed back into the collar | source |
+| **PROOF** |
+| 5 | 12.0–14.0 | `ASSETS/UGC/ChloeH_CanYouBelieveThisIsADeodorant_Shout.mp4` | `1oKrERveIaLzHrcmkp-7_caf62AL3G74X` | 15.5–17.5 | Bottle standing on a windowsill — **the glass** | muted |
+| 6 | 14.0–15.5 | `ChloeH_...Shout.mp4` | as above | 7.5–9.0 | Mirror macro — **the pale pink stone ball** (Rose Quartz) | muted |
+| 7 | 15.5–18.5 | `CristinaRomano_ASMR_Twirl.mov` | as above | 8.0–11.0 | Refill sachets held up one by one — **the part that is replaced** | source |
+| **RESOLVE** |
+| 8 | 18.5–21.2 | `ChloeH_...Shout.mp4` | as above | 20.3–23.0 | Application to underarm | muted |
+| 9 | 21.2–24.8 | `ChloeH_...Shout.mp4` | as above | 26.0–29.6 | Bottle set down on a vanity among candles and perfume | muted |
 
-**Reordering note.** Cristina's original clip pours water *before* tipping powder. The verified
-mechanic is **powder → water → press the ball on → shake**, confirmed across multiple assets, so
-beats 1, 2 and 4 are re-ordered to depict the real sequence. This is a cut, not a claim change.
+**Mechanic order.** The refill plays as one unbroken run in beat 3 — **powder, then water** — taken
+from Yaz's clip because that is the order she shot it in, and it is the verified mechanic (snip →
+powder → water → press the ball on → shake), confirmed across several assets. Cristina's clip pours
+water before powder, so her pour is deliberately not used; only her ball-press is.
 
 ---
 
@@ -60,19 +68,19 @@ beats 1, 2 and 4 are re-ordered to depict the real sequence. This is a cut, not 
 Lower third, ~300px up from the bottom edge, clear of the Reels UI. White, 74px Liberation Sans
 (stand-in for the brand face), soft shadow, no box. Phrase-chunked, hard in/out.
 
-| t | Card |
-|---|---|
-| 0.15–3.50 | Nobody tells you deodorant / is a subscription. |
-| 3.70–5.90 | You just keep buying / the next one. |
-| 6.10–8.50 | And the next one. |
-| 8.70–11.10 | Powder in. Water on. / Press the ball back in. |
-| 11.30–13.50 | That's the refill. |
-| 13.70–15.30 | The bottle's glass. |
-| 15.50–17.30 | The roller's stone. |
-| 17.50–20.30 | There's nothing in it / that wears out. |
-| 20.50–23.30 | A small British brand decided / the thing you use every day |
-| 23.50–25.30 | shouldn't be the thing / you keep chucking out. |
-| 25.20–27.00 | **One bottle. / Bought once.** |
+| t | Card | Plays over |
+|---|---|---|
+| 0.20–2.10 | Nobody tells you deodorant / is a subscription. | the two plastic roll-ons |
+| 2.40–4.00 | You just keep buying / the next one. | the two plastic roll-ons |
+| 4.50–6.90 | This one you buy once. | the Rollr bottle |
+| 7.30–9.00 | Powder in. Water in. | the sachet tipping, then the pour |
+| 9.40–11.70 | Press the ball back on. | the ball being pressed on |
+| 12.20–13.80 | The bottle's glass. | the glass bottle on the windowsill |
+| 14.15–15.35 | The roller's a stone. | the stone-ball macro |
+| 15.80–18.20 | The only thing you replace / is the powder. | the sachets |
+| 18.70–21.00 | A small British brand decided / the thing you use every day | the application |
+| 21.50–23.20 | shouldn't be the thing / you keep chucking out. | the vanity |
+| 23.50–24.80 | **One bottle. / Bought once.** | the resolve |
 
 ---
 
@@ -141,3 +149,34 @@ makes the price argument land. **A music bed still needs laying under it.**
 It is also the thinnest the library goes: of 1,386 tagged assets, **338 videos are unrestricted
 with no burned-in text**, but only a handful carry clean product mechanics, and most of this film
 came from one clip.
+
+
+---
+
+### Revision note — the first cut was incoherent, and why
+
+The first render was rejected by the client as making no sense, and it did not. The fault was
+method: the shot list was built from *which beats existed in the library*, and Concept A's caption
+script was then laid over it without checking that each card matched the frame underneath. The
+render was reviewed for caption legibility and for the price claim, and never for whether the words
+described the picture.
+
+Four specific breaks, all now fixed:
+
+1. **It opened on the solution while the words described the problem.** The first six seconds were a
+   hand putting powder into a jar — unreadable to anyone who did not already know Rollr — under a
+   caption about subscriptions. The film now opens on the two plastic roll-ons, so the picture *is*
+   the problem the line names.
+2. **The refill was shown, interrupted, then narrated retroactively.** Powder and water played at
+   0–6s; the edit cut away; then at 8.7s a card said "Powder in. Water on. Press the ball back in."
+   over actions already five seconds gone. The mechanic now plays once, in order, as one run.
+3. **Two cards were swapped.** "The bottle's glass" ran over a macro of the stone ball, and "The
+   roller's stone" ran over the capped bottle. Each now sits on its own subject.
+4. **One card contradicted its picture.** "There's nothing in it that wears out" played over the
+   sachets — the one component that *is* consumed. That beat now reads "The only thing you replace
+   is the powder", which is what the shot shows and a stronger line besides.
+
+**The check that was missing, and is now standing procedure for any library cut:** before burning
+captions, render the assembly without them, step it frame by frame, and write down what is actually
+on screen in each second. Only then write the cards against that list. A caption script carried over
+from a creator brief describes footage that was never shot.
