@@ -460,3 +460,23 @@ Neither film closes the price frame — there is no number in the library footag
 run, so both resolve on ritual instead. That is the fault the batch was explicitly built not to
 inherit from Finisterre, and it is the strongest argument for shooting brief 1 in
 `F-next-creator-briefs.md` rather than cutting a seventh version from what already exists.
+
+---
+
+## Editor brief — V5 is in Notion
+
+V5 is logged for a human editor as **B6 - The Arc: Caz Spine (90% there)** in the Master Timeline
+2.0 database, status *Amends Needed*:
+https://app.notion.com/p/40395da19a7d81219838df75f900b1d2
+
+It carries the do-not-break rules (hard cuts, the 0.25s centred split edit, the room-tone bed, the
+grade target, the 32.05 in-point), the six ranked fixes, the source Drive ids and the rights and
+claims gates.
+
+**The 90% is the ending.** The film opens on *"Can you believe that this is a deodorant?"* and
+closes on *"I'm really curious what this one will be like, but we'll have to wait until we use this
+up to try it."* That is an aside, not an answer. Three candidate closing lines from clean masters
+are named in the brief.
+
+**The render is not in this repo** (`renders/` is gitignored — a 16MB binary rewritten per recut
+took `.git` to 47MB). It needs uploading to Drive or Frame.io before an editor can pick it up.
