@@ -62,15 +62,26 @@ it**. White powder into clear glass is what a phone does worst — it blows out 
 | # | dur | SEE | SAY |
 |---|---|---|---|
 | 1 | 3.0 | Drawer yanked open. Seven plain unbranded white sticks, caps off or missing, **each wound up to a different height so you can see none is finished**, one furred with dust. Her hand pushes them about. No face. | *"Seven. And not one of them is empty."* |
-| 2 | 6.0 | **THE CONCESSION, MOVED HERE.** She stands them on the sink edge in a row, like evidence. Two fall over. **She doesn't fix them.** | *"They all work. Three quid each, and they all work. That was never what was wrong."* |
+| 2 | 6.0 | **THE CONCESSION, MOVED HERE.** She stands them on the sink edge in a row, like evidence. Two fall over. **She doesn't fix them.** | *"They're all fine, I suppose. Three quid, does the job. I've genuinely never given one a second thought."* |
 | 3 | 5.6 | Her face first time, in the mirror, no makeup, amused at herself. **The phone is visible in her hand — deliberate.** The row still behind her. | *"I didn't choose any of these. I grabbed them, on the way past the bread."* |
 | 4 | 5.3 | Wide, static. Her, the sink, the seven standing. She isn't moving. Room tone only. | *"First thing on my skin every morning. And I'd never once thought about it."* |
-| 5 | 4.5 | **THE TURN.** She sweeps the row into the drawer with the side of her hand and shuts it. Clean, decisive, slightly violent. | *"I didn't need a better one. I needed to stop buying them."* |
+| 5 | 4.5 | **THE TURN.** She sweeps the row into the drawer with the side of her hand and shuts it. Clean, decisive, slightly violent. | *"I didn't need a better one. I needed one I'd actually think about."* |
 | 6 | 6.5 | **KIT SHOT.** Bottle set down, the weight and sound of it. Sachet torn, powder into glass (**~1.6s held silent**), warm tap to the fill line, ball in, cap, two shakes. | *"This one opens. Powder, warm water, shake. The refills come through the letterbox."* |
 | 7 | 3.0 | The bottle, once, plainly. **Not a hero shot** — same counter, same light as everything else. | *"Forty-five pounds. Once."* |
 | 8 | 4.6 | Drawer reopened. **Empty but for a flat strip of sachets.** Same drawer, angle and light as beat 1. She closes it, lifts the bottle out of frame. Caption card. | *"The drawer's empty. First deodorant I've ever actually chosen."* |
 
 **~38.5s.** Turn at 19.4s.
+
+**What the concession changed, and why.** It used to read *"They all work. Three quid each, and they
+all work."* Conceding that the cheap one **works** drags the ad onto the price axis, which is the one
+axis Rollr cannot win — there is no more expensive alternative to anchor against. Conceding
+**indifference** instead moves the fight to whether you ever thought about it at all, which is
+unarguable and which the drawer has already proved.
+
+It also sets up the film's real contrast: the old way is something you get through without noticing;
+this is something you do on purpose. The line now rhymes three times — *never given one a second
+thought* → *one I'd actually think about* → *first deodorant I've ever actually chosen*. Nobody has to
+say the word "ritual".
 
 **SHORT (~22s)** — benefit-first, names the stone (the main never does), CTA close instead of an
 absence close. **LONG (~60s)** — the drawer bookends an *objection-answering* shape: one unhurried
@@ -110,13 +121,25 @@ will not match — panel 2 killed C2 for exactly that failure.**
 
 ---
 
-## B3 — "THINGS THAT OPEN"  · gemstone, £45
+## B3 — "NEVER OWNED ONE TWICE"  · gemstone, £45
 
 **Caption 0.0–2.5s:** `A deodorant you refill, not replace.`
 
+> **⚠ The old hook is withdrawn.** *"This is a deodorant. It's about the only thing in my house that
+> opens."* does not land, and the objection is fair. "Opens" is not a recognisable virtue — jars
+> open, doors open — so the viewer has to do a step of translation before the line means anything.
+>
+> **Where it came from:** the storyline writer's premise was *"Count the things in your house that
+> actually open"*, a complaint about sealed, unrepairable objects. The panel's note was only that it
+> pre-qualified nobody in the first second, so I rewrote the line and kept the premise. The premise
+> was the problem.
+>
+> **What it was trying to say,** concretely: you throw the whole object away every time the product
+> inside runs out. So the hook is now the fact, not the abstraction.
+
 | # | dur | SEE | SAY |
 |---|---|---|---|
-| 1 | 5.3 | **NEW HOOK.** Tight, no face. Fingers already twisting the housing off; the ball comes out between two fingers; she holds it up, turning it. Mid-action from frame 1. | *"This is a deodorant. It's about the only thing in my house that opens."* |
+| 1 | 5.3 | **NEW HOOK.** Tight, no face. Fingers already twisting the housing off; the ball comes out between two fingers; she holds it up, turning it. Mid-action from frame 1. | *"I've thrown away every deodorant I've ever owned. Every single one."* |
 | 2 | 4.1 | **CUT** (not a pull-back) to a wider locked frame: edge of the bath, daylight, the bottle in three pieces in her lap. Face at ~5s. | *"Not a lid — open. You get inside and put more in."* |
 | 3 | 7.5 | **PROTECTED RUNTIME.** She takes a plain unbranded stick off the shelf. Turns it over. **Tries to twist the base; it turns and does nothing. Tries the other way.** Insert: the sealed blank underside. Puts it down, not unkindly. **First 3s run with no dialogue.** | *(3s silent fumbling)* *"This one doesn't. No way in. When it's done, it's done."* |
 | 4 | 5.8 | **KIT SHOT.** Tears the sachet corner with her teeth, pours — macro, **~2s held**. Warm water to the line. | *"This one does. Powder, warm water, up to the line."* |
@@ -173,11 +196,22 @@ invented ownership history.**
 | 4 | 4.5 | Her, to lens, properly awake, edge of the bath. | *"I thought what I wanted was a nicer-looking one. That wasn't it."* |
 | 5 | 6.8 | **THE TURN — REWRITTEN AS A MATCH-CUT LOOP.** Phone on books looking straight down into an open bin. Her hand enters top of frame, drops a stick in. **Hard cut, identical frame, identical hand position: another. Again. Again.** Four drops, each cut a fraction faster. **The same stick retrieved and re-dropped — a match-cut gag, not four light states.** First 1.5s is bin sound only. | *(1.5s silent)* *"Everything on that shelf is on its way there. Use it, bin it, buy another."* |
 | 6 | 6.8 | Wide: the shelf, empty. Bottle set down — the sound of it. **KIT SHOT.** Back wide: the shelf holding one object and a flat strip of sachets. | *"This one isn't going anywhere. You don't replace it, you refill it. Powder, warm water, shake."* |
-| 7 | 4.3 | Her, to lens. Behind her, the empty bin. | *"Forty-five pounds, once. Cheap is cheap every time you buy it."* |
+| 7 | 4.3 | Her, to lens. Behind her, the empty bin. | **Option A (no price):** *"Cheap is cheap every time you buy it."*<br>**Option B (price + refill):** *"Forty-five pounds, once. Then it's [£12 — CONFIRM] for refills that last a couple of months."* |
 | 8 | 4.5 | **Same frame, light and angle as beat 1 — shot immediately after beat 1 without moving the phone.** This time she looks at what she's picking up and takes a second over it. | *"It's the one part of the morning I'm actually awake for."* |
 
 **~41s.** First and last frames near-identical; the only difference is attention. **The ending reads
 with the sound off.**
+
+**On the price in beat 7.** C3 does not need it — the bin loop has already established a repeat cost
+without a single number, which is why this was the one script with no numeric dependency. If the
+price does run, it must be followed immediately by what the refills cost and how long they last,
+otherwise £45 sits there unanswered.
+
+⚠ **The refill price is on the forbidden list** because three figures are live across the account:
+**£6/month**, **£3.75/month** and **£12**. One of them is already said on camera —
+`Nia_GirlMath_SHOUT` says *"the refills, they're twelve pounds and last a couple of months"* — and
+that is the only one phrased the way beat 7 needs. **A human picks one before this ships.** Do not
+let an editor choose.
 
 ### Honest caveat on releasing this one
 

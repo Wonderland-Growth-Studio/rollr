@@ -118,6 +118,13 @@ library has no version of it changing.**
 28.8–30.5). Everything else is rose quartz or green aventurine. Thirteen further files are tagged
 "unknown — could be Steel or a dark stone" and none resolves.
 
+**Beth's master is cut off before the line it was wanted for.** The agent's survey proposed Beth
+19.4–26.8 for *"I leave it on the side of my bathroom, and it's earned its place there"*. Her master
+runs 26.8s and the transcript ends mid-sentence at *"by the time I leave the bathroom I've had
+tha…"*, so the closing lines are not reliably inside it. Use Emily 33.9–39.4 instead — *"Every
+morning I reach for it and remember that I choose this for myself"* — which is a verified separate
+transcript segment over the bottle standing alone on a ledge.
+
 **And Hannah's clip is unusable as a Steel build anyway:** she has a **Mitchum** in frame and on skin
 at 6.0–10.5, and her own VO at 15.3–17.3 says *"Rollr is carved from real gemstone or steel"* — the
 banned word, in the mouth of the only Steel creator.
@@ -178,6 +185,13 @@ ingredient panel read on camera.
 - 🔴 **Every single "autopilot" clip in the library carries de-perspirant language** — *"it also works
   as a de-perspirant using minerals, so you don't get that sticky underarm feeling."* **There is no
   clean autopilot line anywhere.**
+- 🔴 **Four sachets fanned in frame is common across the library, and it reads as four scents.**
+  Verified in `AndreeaMacovei_TheInsideScoop` (45–48, orange/blue/green/pink) and
+  `EmilyMaryMcC_IChoseThisForMyself` (28–33, same four colours); the earlier survey also records four
+  sachets in `CristinaRomano_ASMR_Twirl` at 8.0–11.5. **Three scents are locked and "four scents" has
+  already shipped once and is wrong.** A human has to say whether four sachets means four scents or a
+  four-pack of one, because it rules in or out the clearest refill footage in the archive. Andreea was
+  dropped from the first mashup for this; it then turned up in Emily's clip too.
 - **Nothing in the library says 22,000.** `ShaharaPrajapat_IfYouCouldChangeOneThing` has
   **"11,000 lifetime uses"** handwritten on the picture at 20–25. A second unsourced number, in
   conflict with the first.
