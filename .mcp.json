@@ -3,6 +3,10 @@
     "shopify-rollr": {
       "type": "http",
       "url": "https://setup.shopify.com/mcp"
+    },
+    "trybe-rollr": {
+      "type": "http",
+      "url": "https://mcp.jointrybe.com/mcp"
     }
   }
 }
